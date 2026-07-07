@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "",
+    "slug": "",
+    "created_at": "",
+    "updated_at": "",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "",
+    "pickup_theme": "",
+    "event_name": "",
+    "time_theme": "",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "animation_title": "",
+    "animation_text": "",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "",
+    "danbooru_tags_line": "",
+    "one_comment": "",
+    "rarity_label": "",
+    "title": "",
+    "introduction_text": ""
+  },
+  "structured": {
+    "name": "",
+    "full_name": "",
+    "full_name_reading": "",
+    "nickname": "",
+    "job": "",
+    "age": null,
+    "species": "",
+    "attribute": "",
+    "appearance": "",
+    "eyes": "",
+    "hair": "",
+    "body_type": "",
+    "bust_impression": "",
+    "body_features": "",
+    "first_person": "",
+    "user_call": "",
+    "others_call": "",
+    "personality": "",
+    "speech_style": "",
+    "ending": "",
+    "principle": "",
+    "social_tendency": "",
+    "catchphrase_habit": "",
+    "favorite": "",
+    "weak_subject": "",
+    "outfit": "",
+    "equipment": "",
+    "skills": [],
+    "special_skill": "",
+    "weakness": "",
+    "secret": "",
+    "remarks": ""
+  },
+  "tags": {
+    "danbooru": "",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "",
+    "policy_note": "",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "",
+    "illustration_prompt_note": ""
+  },
+  "notes": []
+}
