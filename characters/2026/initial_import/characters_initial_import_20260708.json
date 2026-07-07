@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "archive_id": "initial_chat_import_20260708",
+    "created_at": "2026-07-08T08:32:07+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja",
+    "import_note": "画像アセットを除外した初回一括JSON化。会話ログから確認できたキャラクターを抽出。"
+  },
+  "characters": [
+    {
+      "metadata": {
+        "schema_version": "1.0.0",
+        "character_id": "2026-000001",
+        "slug": "rishel_edellight",
+        "created_at": "2026-07-08T08:32:07+09:00",
+        "updated_at": "2026-07-08T08:32:07+09:00",
+        "generator": "Character Gacha Master Chat",
+        "specification_version": "4.1",
+        "language": "ja"
+      },
+      "gacha": {
+        "rarity": "SR",
+        "pickup_theme": "王立魔導学院",
+        "event_name": "王立魔導学院",
+        "time_theme": "",
+        "ticket_before": null,
+        "ticket_cost": 1,
+        "ticket_after": null,
+        "draw_count": 1,
+        "animation_title": "",
+        "animation_text": "",
+        "is_weekly_first_draw": false,
+        "weekly_bonus_ticket": 0
+      },
+      "display": {
+        "character_info_line": "",
+        "danbooru_tags_line": "",
+        "one_comment": "知識は力ですが、それ以上に誰かを支える灯火でもあるのですよ。",
+        "rarity_label": "SR",
+        "title": "魔導図書館の司書術師",
+        "introduction_text": ""
+      },
+      "structured": {
+        "name": "リシェル",
+        "full_name": "リシェル",
+        "job": "王立魔導学院中央図書館司書",
+        "age": 25,
+        "species": "人間"
+      },
+      "tags": {"danbooru": "", "tag_source": "character_info", "rules_version": "2.0", "contains_basic_tags": false, "policy_safe": true},
+      "assets": {},
+      "generation": {"source_chat": "ChatGPT", "model_note": "initial batch import from chat history", "policy_note": "画像アセットは含めない。全年齢向けのキャラクターデータとして保存。"},
+      "notes": ["initial_import", "images_excluded"]
+    }
+  ]
+}
