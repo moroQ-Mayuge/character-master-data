@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260708T220000-hoshihama-nayuta",
+    "slug": "hoshihama_nayuta",
+    "created_at": "2026-07-08T22:00:00+09:00",
+    "updated_at": "2026-07-08T22:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SSR",
+    "pickup_theme": "夏祭り",
+    "event_name": "夏祭り",
+    "time_theme": "就寝前・星灯りの露店通り",
+    "ticket_before": 215,
+    "ticket_cost": 1,
+    "ticket_after": 214,
+    "draw_count": 1,
+    "animation_title": "STARLIGHT NIGHT BOOTH",
+    "animation_text": "小さな星灯りランタンが並び、涼やかな鈴の音が響く。貝殻細工の屋台から、紺碧の法被を羽織った案内人がそっと手を振る。"
+  },
+  "display": {
+    "character_info_line": "キャラ情報：星浜ナユタ/本名：星浜ナユタ(ほしはまなゆた)/あだ名：スターライト屋台番/職業：ナイトマーケット運営スタッフ兼ランタン職人/年齢：24歳/種族：人間/属性：光/容姿特徴：静かな微笑みと夜風に映える涼やかな雰囲気/目色形状：ライトブルーの瞳/髪型髪色：ミッドナイトブルーのロングヘア、星型ヘアピン付き/体型：健康的な体格/一人称自分呼方：私/あなたを：お客さま/性格：穏やかで気配り上手/口調：やわらかい丁寧口調/服装：紺碧の薄手フェス法被、白いクルーネックシャツ、ライトグレーのハーフパンツ、ネイビーのスポーツサンダル/装備：貝殻細工の小箱、携帯ランタン、屋台案内マップ/スキル技能：ランタン制作・夜間イベント案内・貝殻クラフト/特殊スキル：スターライト・ガイドレーン/備考：夜の露店通りを担当する案内スタッフ。全年齢向けの健全な夏祭り衣装。",
+    "danbooru_tags_line": "original, summer festival, modern, 24 years old, light blue eyes, midnight blue long hair, deep blue festival happi coat, white crew neck shirt, light gray half pants, star hairpin, navy sport sandals, seashell craft box, portable lantern, booth guide map",
+    "one_comment": "夜の浜辺は静かですけど、楽しい灯りはまだ消えていませんよ。",
+    "rarity_label": "SSR",
+    "title": "星灯りのランタン案内人",
+    "introduction_text": "星灯りランタンで夜道を照らす、穏やかなナイトマーケット案内人。"
+  },
+  "structured": {
+    "name": "星浜ナユタ",
+    "full_name": "星浜ナユタ",
+    "full_name_reading": "ほしはまなゆた",
+    "nickname": "スターライト屋台番",
+    "job": "ナイトマーケット運営スタッフ兼ランタン職人",
+    "age": 24,
+    "species": "人間",
+    "attribute": "光",
+    "eyes": "ライトブルーの瞳",
+    "hair": "ミッドナイトブルーのロングヘア、星型ヘアピン付き",
+    "outfit": "紺碧の薄手フェス法被、白いクルーネックシャツ、ライトグレーのハーフパンツ、ネイビーのスポーツサンダル",
+    "equipment": "貝殻細工の小箱、携帯ランタン、屋台案内マップ",
+    "skills": ["ランタン制作", "夜間イベント案内", "貝殻クラフト"],
+    "special_skill": "スターライト・ガイドレーン"
+  },
+  "tags": {
+    "danbooru": "original, summer festival, modern, 24 years old, light blue eyes, midnight blue long hair, deep blue festival happi coat, white crew neck shirt, light gray half pants, star hairpin, navy sport sandals, seashell craft box, portable lantern, booth guide map",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automation JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": ["images_excluded", "scheduled_gacha_run"]
+}
