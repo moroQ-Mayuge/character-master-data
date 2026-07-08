@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-deepsea-20260708T180000-kazami-rikka",
+    "slug": "kazami_rikka",
+    "created_at": "2026-07-08T18:00:00+09:00",
+    "updated_at": "2026-07-08T18:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "深海探査・アビスエクスプローラー",
+    "event_name": "深海探査・アビスエクスプローラー",
+    "time_theme": "定時後・潮流発電タービン区画",
+    "ticket_before": 216,
+    "ticket_cost": 1,
+    "ticket_after": 215,
+    "draw_count": 1,
+    "animation_title": "ABYSS EXPLORER GACHA / TIDAL POWER SHIFT",
+    "animation_text": "潮流タービン点検、発電量安定、隔壁ロック解除。蒼い警告灯が通常灯へ戻り、工具ケースを抱えた発電技師が振り返る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：風見リッカ/本名：風見リッカ(かざみりっか)/あだ名：タイダルエンジニア/職業：海底潮流発電技師/年齢：24歳/種族：人間/属性：水/容姿特徴：快活な笑顔と現場慣れした落ち着き/目色形状：ターコイズブルーの丸みある瞳/髪型髪色：アッシュブラウンのショートボブ、右側にブルーの点検ピン/体型：健康的で引き締まった体格/胸大きさ形：普通/身体特徴：姿勢が良く腕まわりがしなやか/一人称自分呼方：私/あなたを：隊員さん/他人を：○○さん/性格：明るく堅実で面倒見が良い/口調：親しみやすい丁寧口調/語尾：〜ですよ！/行動原理：海底都市の電力を安定供給すること/対人傾向：現場の仲間をよく気にかける/癖口癖：「電力が安定すれば、みんなの一日も安定しますから！」/好物：塩キャラメル/苦手：静電気/服装：オレンジの耐水ワークジャケット、ダークネイビーのインナーシャツ、グレーの補強ワークパンツ、ブラックの絶縁グローブ、ホワイトの安全ヘルメット、ブラックの耐水ワークブーツ/装備：絶縁点検ツール、携帯発電量モニター、工具ケース/スキル技能：潮流発電管理・電力系統点検・タービン整備/特殊スキル：『タイダル・スタビライザー』/弱点：細かすぎる書類作業/秘密：古い発電機の駆動音を聞き分けられる/備考：海底都市の電力インフラを支える若手技師。",
+    "danbooru_tags_line": "girl, {{{original, deep sea research}}}, {{{modern, 24 years old}}}, {{{average bust}}}, healthy toned build, turquoise blue rounded eyes, ash brown short bob hair, {{{orange waterproof work jacket, dark navy inner shirt, gray reinforced work pants, black insulated gloves, white safety helmet, blue inspection hair pin, black waterproof work boots}}}, {{{insulated inspection tool, portable power output monitor, tool case}}}",
+    "one_comment": "海の流れは止まりません。だから私たちの電力も、ちゃんと止めずに届けます！",
+    "rarity_label": "SR",
+    "title": "海底潮流発電技師",
+    "introduction_text": "潮流発電タービン区画を守る明るい現場技師。"
+  },
+  "structured": {
+    "name": "風見リッカ",
+    "full_name": "風見リッカ",
+    "full_name_reading": "かざみりっか",
+    "nickname": "タイダルエンジニア",
+    "job": "海底潮流発電技師",
+    "age": 24,
+    "species": "人間",
+    "attribute": "水",
+    "appearance": "快活な笑顔と現場慣れした落ち着き",
+    "eyes": "ターコイズブルーの丸みある瞳",
+    "hair": "アッシュブラウンのショートボブ、右側にブルーの点検ピン",
+    "body_type": "健康的で引き締まった体格",
+    "bust_impression": "普通",
+    "body_features": "姿勢が良く腕まわりがしなやか",
+    "outfit": "オレンジの耐水ワークジャケット、ダークネイビーのインナーシャツ、グレーの補強ワークパンツ、ブラックの絶縁グローブ、ホワイトの安全ヘルメット、ブラックの耐水ワークブーツ",
+    "equipment": "絶縁点検ツール、携帯発電量モニター、工具ケース",
+    "skills": [
+      "潮流発電管理",
+      "電力系統点検",
+      "タービン整備"
+    ],
+    "special_skill": "タイダル・スタビライザー"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, deep sea research}}}, {{{modern, 24 years old}}}, {{{average bust}}}, healthy toned build, turquoise blue rounded eyes, ash brown short bob hair, {{{orange waterproof work jacket, dark navy inner shirt, gray reinforced work pants, black insulated gloves, white safety helmet, blue inspection hair pin, black waterproof work boots}}}, {{{insulated inspection tool, portable power output monitor, tool case}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automation JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_gacha_run"
+  ]
+}
