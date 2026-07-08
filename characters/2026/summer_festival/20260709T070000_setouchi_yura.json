@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260709T070000-setouchi-yura",
+    "slug": "setouchi_yura",
+    "created_at": "2026-07-09T07:00:00+09:00",
+    "updated_at": "2026-07-09T07:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "朝一・ビーチ設営安全チェック",
+    "ticket_before": 214,
+    "ticket_cost": 1,
+    "ticket_after": 213,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / MORNING SETUP CHECK",
+    "animation_text": "朝日が砂浜を照らし、まだ人の少ないビーチに設営ベルが鳴る。白い安全コーンが一列に並び、チェックボードを抱えたスタッフが笑顔で振り返る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：瀬戸内ゆら/本名：瀬戸内ゆら(せとうちゆら)/あだ名：モーニングチェックさん/職業：ビーチ会場設営スタッフ/年齢：23歳/種族：人間/属性：夏/容姿特徴：朝日みたいに穏やかな笑顔ときびきびした立ち姿/目色形状：シーグリーンの丸い瞳/髪型髪色：ダークブラウンのミディアムヘア、ライトブルーのヘアクリップ/体型：健康的で標準的な体格/胸大きさ形：普通/身体特徴：日焼け対策をした明るい肌/一人称自分呼方：私/あなたを：参加者さん/他人を：○○さん/性格：几帳面で面倒見が良く、朝に強い/口調：柔らかい丁寧口調/語尾：〜ですよ/行動原理：安全で気持ちいいイベント会場を整えること/対人傾向：困っている人に先に声をかける/癖口癖：「足元よし、案内よし、今日も安全第一です！」/好物：冷たい麦茶/苦手：置き忘れられたコード類/服装：ライトイエローのスタッフTシャツ、ホワイトの薄手UVパーカー、ベージュのハーフパンツ、ネイビーのキャップ、ホワイトの作業グローブ、ライトグレーのスポーツスニーカー/装備：チェックボード、安全コーン、案内札、無線機/スキル技能：会場設営・安全確認・案内誘導/特殊スキル：『モーニング・セーフティライン』/弱点：予定外の強風/秘密：誰よりも早く来て砂浜に落ちた小さなゴミを拾っている/備考：ビーチ夏祭りの朝を支える設営スタッフ。派手な演出よりも安全と快適さを大切にする。",
+    "danbooru_tags_line": "girl, {{{original, summer beach festival}}}, {{{modern, 23 years old}}}, {{{average bust}}}, healthy average build, bright protected skin, sea green round eyes, dark brown medium hair, {{{light yellow staff t-shirt, white lightweight uv hoodie, beige half pants, navy cap, white work gloves, light gray sports sneakers, light blue hair clip}}}, {{{check board, safety cone, guide sign, walkie-talkie}}}",
+    "one_comment": "足元よし、案内よし。今日のビーチも、安心して楽しんでくださいね！",
+    "rarity_label": "R",
+    "title": "ビーチ会場設営スタッフ",
+    "introduction_text": "朝のビーチ会場を整える、几帳面で頼れる設営スタッフ。"
+  },
+  "structured": {
+    "name": "瀬戸内ゆら",
+    "full_name": "瀬戸内ゆら",
+    "full_name_reading": "せとうちゆら",
+    "nickname": "モーニングチェックさん",
+    "job": "ビーチ会場設営スタッフ",
+    "age": 23,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "朝日みたいに穏やかな笑顔ときびきびした立ち姿",
+    "eyes": "シーグリーンの丸い瞳",
+    "hair": "ダークブラウンのミディアムヘア、ライトブルーのヘアクリップ",
+    "body_type": "健康的で標準的な体格",
+    "bust_impression": "普通",
+    "body_features": "日焼け対策をした明るい肌",
+    "outfit": "ライトイエローのスタッフTシャツ、ホワイトの薄手UVパーカー、ベージュのハーフパンツ、ネイビーのキャップ、ホワイトの作業グローブ、ライトグレーのスポーツスニーカー",
+    "equipment": "チェックボード、安全コーン、案内札、無線機",
+    "skills": [
+      "会場設営",
+      "安全確認",
+      "案内誘導"
+    ],
+    "special_skill": "モーニング・セーフティライン"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer beach festival}}}, {{{modern, 23 years old}}}, {{{average bust}}}, healthy average build, bright protected skin, sea green round eyes, dark brown medium hair, {{{light yellow staff t-shirt, white lightweight uv hoodie, beige half pants, navy cap, white work gloves, light gray sports sneakers, light blue hair clip}}}, {{{check board, safety cone, guide sign, walkie-talkie}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automation JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。露出の高い衣装なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_gacha_run",
+    "morning_slot"
+  ]
+}
