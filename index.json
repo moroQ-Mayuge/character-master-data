@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-08T18:30:00+09:00",
+  "updated_at": "2026-07-08T22:00:00+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 53,
+  "character_count": 54,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -61,6 +61,7 @@
     {"id":"2026-000050","slug":"saotome_nodoka","name":"早乙女のどか","rarity":"N","title":"海辺のおそうじボランティア","age":18,"theme":"水着・ビーチ試験運用","created_at":"2026-07-08T08:40:00+09:00","path":"characters/2026/initial_import/characters_index_20260708.json"},
     {"id":"2026-000051","slug":"fiona_celes","name":"フィオナ・セレス","rarity":"UR","title":"蒼海のサマーアンバサダー","age":23,"theme":"水着・ビーチ試験運用","created_at":"2026-07-08T08:40:00+09:00","path":"characters/2026/initial_import/characters_index_20260708.json"},
     {"id":"2026-summerfestival-20260708T120000-hamakaze-suzune","slug":"hamakaze_suzune","name":"浜風すずね","rarity":"SR","title":"シーサイド・クラフトスタッフ","age":22,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-08T12:00:00+09:00","path":"characters/2026/summer_festival/20260708T120000_hamakaze_suzune.json"},
-    {"id":"2026-deepsea-20260708T180000-kazami-rikka","slug":"kazami_rikka","name":"風見リッカ","rarity":"SR","title":"海底潮流発電技師","age":24,"theme":"深海探査・アビスエクスプローラー","created_at":"2026-07-08T18:00:00+09:00","path":"characters/2026/deep_sea_explorer/20260708T180000_kazami_rikka.json"}
+    {"id":"2026-deepsea-20260708T180000-kazami-rikka","slug":"kazami_rikka","name":"風見リッカ","rarity":"SR","title":"海底潮流発電技師","age":24,"theme":"深海探査・アビスエクスプローラー","created_at":"2026-07-08T18:00:00+09:00","path":"characters/2026/deep_sea_explorer/20260708T180000_kazami_rikka.json"},
+    {"id":"2026-summerfestival-20260708T220000-hoshihama-nayuta","slug":"hoshihama_nayuta","name":"星浜ナユタ","rarity":"SSR","title":"星灯りのランタン案内人","age":24,"theme":"夏祭り","created_at":"2026-07-08T22:00:00+09:00","path":"characters/2026/summer_festival/20260708T220000_hoshihama_nayuta.json"}
   ]
 }
