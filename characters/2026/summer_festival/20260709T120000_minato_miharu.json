@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260709T120000-minato-miharu",
+    "slug": "minato_miharu",
+    "created_at": "2026-07-09T12:00:00+09:00",
+    "updated_at": "2026-07-09T12:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "昼・ビーチフードストリート",
+    "ticket_before": 214,
+    "ticket_cost": 1,
+    "ticket_after": 213,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / BEACH FOOD STREET",
+    "animation_text": "真昼の砂浜に屋台のベルが鳴る。冷たい潮風と焼きとうもろこしの香りが混ざり、行列を手際よくさばくスタッフが笑顔で振り返る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：港みはる/本名：港みはる(みなとみはる)/あだ名：ビーチフード姐さん/職業：ビーチフードストリート運営スタッフ/年齢：25歳/種族：人間/属性：夏/容姿特徴：頼れる雰囲気と太陽のような笑顔/目色形状：アンバーの切れ長気味の瞳/髪型髪色：ダークブラウンの高めポニーテール、白いヘアバンド/体型：健康的で引き締まった体格/胸大きさ形：普通/身体特徴：日差しに慣れた小麦色の肌/一人称自分呼方：私/あなたを：お客さん/他人を：○○さん/性格：面倒見が良く段取り上手/口調：明るく歯切れのよい丁寧口調/語尾：〜ですよ！/行動原理：来場者全員に安全で楽しい昼食時間を届けること/対人傾向：混雑時ほど落ち着いて周囲を助ける/癖口癖：「はい、列はこちらです！水分補給も忘れずに！」/好物：焼きとうもろこし/苦手：食材ロス/服装：ライトイエローのスタッフTシャツ、白いショートエプロン、ネイビーの膝丈キュロット、白いヘアバンド、耐水スニーカー/装備：注文タブレット、保冷バッグ、屋台用メニュー札/スキル技能：屋台運営・混雑整理・食品衛生管理/特殊スキル：『ランチタイム・フロー』/弱点：自分の休憩を後回しにしがち/秘密：閉店後に余った食材でまかないを作るのが得意/備考：昼のビーチフードストリートを支える運営スタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 25 years old}}}, {{{average bust}}}, healthy toned build, tanned skin, amber sharp eyes, dark brown high ponytail, white hairband, {{{light yellow staff t-shirt, white short apron, navy knee-length culottes, waterproof sneakers}}}, {{{order tablet, insulated cooler bag, food stall menu sign}}}",
+    "one_comment": "お昼のビーチは体力勝負ですからね。しっかり食べて、しっかり楽しんでください！",
+    "rarity_label": "SR",
+    "title": "ビーチフードストリート運営スタッフ",
+    "introduction_text": "真昼のビーチ屋台通りをまとめる、頼れる段取り上手な運営スタッフ。"
+  },
+  "structured": {
+    "name": "港みはる",
+    "full_name": "港みはる",
+    "full_name_reading": "みなとみはる",
+    "nickname": "ビーチフード姐さん",
+    "job": "ビーチフードストリート運営スタッフ",
+    "age": 25,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "頼れる雰囲気と太陽のような笑顔",
+    "eyes": "アンバーの切れ長気味の瞳",
+    "hair": "ダークブラウンの高めポニーテール、白いヘアバンド",
+    "body_type": "健康的で引き締まった体格",
+    "bust_impression": "普通",
+    "body_features": "日差しに慣れた小麦色の肌",
+    "outfit": "ライトイエローのスタッフTシャツ、白いショートエプロン、ネイビーの膝丈キュロット、白いヘアバンド、耐水スニーカー",
+    "equipment": "注文タブレット、保冷バッグ、屋台用メニュー札",
+    "skills": [
+      "屋台運営",
+      "混雑整理",
+      "食品衛生管理"
+    ],
+    "special_skill": "ランチタイム・フロー"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 25 years old}}}, {{{average bust}}}, healthy toned build, tanned skin, amber sharp eyes, dark brown high ponytail, white hairband, {{{light yellow staff t-shirt, white short apron, navy knee-length culottes, waterproof sneakers}}}, {{{order tablet, insulated cooler bag, food stall menu sign}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automation JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_gacha_run"
+  ]
+}
