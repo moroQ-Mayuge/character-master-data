@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T005228-konami-minamo",
+    "slug": "konami_minamo",
+    "created_at": "2026-07-10T00:52:28+09:00",
+    "updated_at": "2026-07-10T00:52:28+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーリゾート・オーシャンフェスタ",
+    "time_theme": "夜・サマーリゾート",
+    "ticket_before": 230,
+    "ticket_cost": 1,
+    "ticket_after": 227,
+    "draw_count": 1,
+    "animation_title": "SUMMER RESORT OCEAN FESTA GACHA",
+    "animation_text": "青い波紋が広がる。白い貝殻がゆっくり浮かび上がる。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：小波みなも/本名：小波みなも(こなみみなも)/あだ名：浜辺のレンタルパラソル係/職業：ビーチパラソルレンタルスタッフ/年齢：19歳/種族：人間/属性：水/容姿特徴：元気いっぱいで笑顔が絶えない/目色形状：ライトブラウンの丸い瞳/髪型髪色：栗色のショートボブ、白い貝殻ヘアクリップ/体型：小柄で健康的/胸大きさ形：普通/身体特徴：日焼け止めポーチを携帯/一人称自分呼方：私/あなたを：お客さん/他人を：○○さん/性格：明るい・働き者/口調：元気/語尾：〜ですよ！/行動原理：来場者が安心して休める浜辺を整えること/対人傾向：誰とでも仲良くなる/癖口癖：「日陰の席、空いてますよ！」/好物：ラムネ/苦手：強風の日のパラソル片付け/服装：白いUVパーカーを羽織ったブルーのスイムトップ、デニムショートパンツ、サンダル/装備：パラソル予約クリップボード、貸出タオルかご/スキル技能：接客・備品管理・浜辺案内/特殊スキル：『シーサイド・シェード』/弱点：泳ぎは少し苦手/秘密：貝殻集めが趣味/備考：朝霧ひなた案から、既存キャラとの名前・役割重複を避けて調整した夏限定アルバイト。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 19 years old}}}, {{{average bust}}}, petite healthy build, light brown round eyes, chestnut short bob, white shell hair clip, {{{white uv hoodie, blue swim top, denim short pants, sandals}}}, {{{parasol reservation clipboard, towel basket}}}",
+    "one_comment": "海って、見てるだけでも元気になれますね。日陰の準備なら任せてください！",
+    "rarity_label": "R",
+    "title": "浜辺のレンタルパラソル係",
+    "introduction_text": "浜辺の休憩スペースを明るく支える、レンタルパラソル担当の夏限定スタッフ。"
+  },
+  "structured": {
+    "name": "小波みなも",
+    "full_name": "小波みなも",
+    "full_name_reading": "こなみみなも",
+    "nickname": "浜辺のレンタルパラソル係",
+    "job": "ビーチパラソルレンタルスタッフ",
+    "age": 19,
+    "species": "人間",
+    "attribute": "水",
+    "appearance": "元気いっぱいで笑顔が絶えない",
+    "eyes": "ライトブラウンの丸い瞳",
+    "hair": "栗色のショートボブ、白い貝殻ヘアクリップ",
+    "body_type": "小柄で健康的",
+    "bust_impression": "普通",
+    "body_features": "日焼け止めポーチを携帯",
+    "first_person": "私",
+    "user_call": "お客さん",
+    "others_call": "○○さん",
+    "personality": "明るい・働き者",
+    "speech_style": "元気",
+    "ending": "〜ですよ！",
+    "principle": "来場者が安心して休める浜辺を整えること",
+    "social_tendency": "誰とでも仲良くなる",
+    "catchphrase_habit": "日陰の席、空いてますよ！",
+    "favorite": "ラムネ",
+    "weak_subject": "強風の日のパラソル片付け",
+    "outfit": "白いUVパーカーを羽織ったブルーのスイムトップ、デニムショートパンツ、サンダル",
+    "equipment": "パラソル予約クリップボード、貸出タオルかご",
+    "skills": ["接客", "備品管理", "浜辺案内"],
+    "special_skill": "シーサイド・シェード",
+    "weakness": "泳ぎは少し苦手",
+    "secret": "貝殻集めが趣味",
+    "remarks": "朝霧ひなた案から、既存キャラとの名前・役割重複を避けて調整した夏限定アルバイト。"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 19 years old}}}, {{{average bust}}}, petite healthy build, light brown round eyes, chestnut short bob, white shell hair clip, {{{white uv hoodie, blue swim top, denim short pants, sandals}}}, {{{parasol reservation clipboard, towel basket}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "manual import from ChatGPT_2026-07-10-00-52-28.md with duplicate-avoidance adjustments",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "三面図では白いUVパーカー、デニムショートパンツ、貝殻ヘアクリップ、貸出備品を明確に分ける。",
+    "illustration_prompt_note": "浜辺のパラソルレンタル受付で来場者を案内する明るい一枚絵。"
+  },
+  "notes": [
+    "images_excluded",
+    "duplicate_adjusted",
+    "source_candidate_name: 朝霧ひなた"
+  ]
+}
