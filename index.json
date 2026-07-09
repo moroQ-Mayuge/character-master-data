@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-10T00:52:30+09:00",
+  "updated_at": "2026-07-10T07:00:00+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 59,
+  "character_count": 62,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -67,6 +67,9 @@
     {"id":"2026-summerfestival-20260709T120000-minato-miharu","slug":"minato_miharu","name":"港みはる","rarity":"SR","title":"ビーチフードストリート運営スタッフ","age":25,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-09T12:00:00+09:00","path":"characters/2026/summer_festival/20260709T120000_minato_miharu.json"},
     {"id":"2026-summerfestival-20260710T005228-konami-minamo","slug":"konami_minamo","name":"小波みなも","rarity":"R","title":"浜辺のレンタルパラソル係","age":19,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T00:52:28+09:00","path":"characters/2026/summer_festival/20260710T005228_konami_minamo.json"},
     {"id":"2026-summerfestival-20260710T005229-isokaze-ritsuka","slug":"isokaze_ritsuka","name":"磯風りつか","rarity":"SR","title":"潮騒セーフティアナウンス係","age":22,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T00:52:29+09:00","path":"characters/2026/summer_festival/20260710T005229_isokaze_ritsuka.json"},
-    {"id":"2026-summerfestival-20260710T005230-sophia-bluewave","slug":"sophia_bluewave","name":"ソフィア・ブルーウェイブ","rarity":"SSR","title":"サマーリゾート・セレモニーコンダクター","age":24,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T00:52:30+09:00","path":"characters/2026/summer_festival/20260710T005230_sophia_bluewave.json"}
+    {"id":"2026-summerfestival-20260710T005230-sophia-bluewave","slug":"sophia_bluewave","name":"ソフィア・ブルーウェイブ","rarity":"SSR","title":"サマーリゾート・セレモニーコンダクター","age":24,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T00:52:30+09:00","path":"characters/2026/summer_festival/20260710T005230_sophia_bluewave.json"},
+    {"id":"2026-summerfestival-20260710T010000-shiozaki-iori","slug":"shiozaki_iori","name":"潮崎いおり","rarity":"R","title":"浜辺のレンタルショップスタッフ","age":20,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T01:00:00+09:00","path":"characters/2026/summer_festival/20260710T010000_shiozaki_iori.json"},
+    {"id":"2026-summerfestival-20260710T010001-konami-shizuku","slug":"konami_shizuku","name":"小波しずく","rarity":"SR","title":"サマーマーケット・クラフトアーティスト","age":23,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T01:00:01+09:00","path":"characters/2026/summer_festival/20260710T010001_konami_shizuku.json"},
+    {"id":"2026-summerfestival-20260710T070000-asahama-minori","slug":"asahama_minori","name":"朝浜みのり","rarity":"N","title":"ビーチ会場オープン準備スタッフ","age":21,"theme":"水着・ビーチの夏祭り","created_at":"2026-07-10T07:00:00+09:00","path":"characters/2026/summer_festival/20260710T070000_asahama_minori.json"}
   ]
 }
