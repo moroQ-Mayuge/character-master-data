@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T070000-asahama-minori",
+    "slug": "asahama_minori",
+    "created_at": "2026-07-10T07:00:00+09:00",
+    "updated_at": "2026-07-10T07:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "N",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "朝・ビーチ会場オープン準備",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "draw_position": 1,
+    "animation_title": "MORNING SUMMER FESTIVAL GACHA / BEACH OPENING PREP",
+    "animation_text": "朝日が差し込むビーチで案内看板が立てられ、まだ涼しい潮風の中、チェックリストを片手に会場を整えるスタッフが振り向く。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：朝浜みのり/本名：朝浜みのり(あさはまみのり)/あだ名：朝番スタッフ/職業：ビーチ会場オープン準備スタッフ/年齢：21歳/種族：人間/属性：夏/容姿特徴：爽やかで落ち着いた笑顔/目色形状：オリーブグリーンの丸い瞳/髪型髪色：アプリコットブラウンのローポニーテール/体型：健康的で動きやすい体格/胸大きさ形：普通/身体特徴：日差し対策を意識した清潔感のある装い/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：几帳面で穏やか、早起きが得意/口調：やわらかい丁寧口調/語尾：〜ですね/行動原理：来場者が一日を気持ちよく始められる会場を整えること/対人傾向：相手の様子を見て静かに手助けする/癖口癖：「朝の準備、もう少しで整いますね」/好物：はちみつレモンウォーター/苦手：濡れたまま片付けられた備品/服装：ホワイトの薄手ラッシュガード、ミントグリーンのスタッフポロシャツ、ネイビーのショートパンツ、ベージュのサンバイザー、ホワイトのクルーソックス、ネイビーのスニーカー/装備：会場チェックリスト、折りたたみ案内看板、清掃トング/スキル技能：会場設営・備品点検・早朝清掃/特殊スキル：『モーニングセットアップ』/弱点：完璧に整えるまで休憩を忘れがち/秘密：朝一番の波音を録音して作業用BGMにしている/備考：サマーフェス会場の朝準備を担当する新人スタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 21 years old}}}, {{{average bust}}}, healthy active build, olive green round eyes, apricot brown low ponytail, {{{white lightweight rash guard, mint green staff polo shirt, navy short pants, beige sun visor, white crew socks, navy sneakers}}}, {{{venue checklist, folding information sign, cleaning tongs}}}",
+    "one_comment": "朝の準備、もう少しで整いますね",
+    "rarity_label": "N",
+    "title": "ビーチ会場オープン準備スタッフ",
+    "introduction_text": "朝のビーチを静かに整え、一日を気持ちよく始めるために働く準備スタッフ。"
+  },
+  "structured": {
+    "name": "朝浜みのり",
+    "full_name": "朝浜みのり",
+    "full_name_reading": "あさはまみのり",
+    "nickname": "朝番スタッフ",
+    "job": "ビーチ会場オープン準備スタッフ",
+    "age": 21,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "爽やかで落ち着いた笑顔",
+    "eyes": "オリーブグリーンの丸い瞳",
+    "hair": "アプリコットブラウンのローポニーテール",
+    "body_type": "健康的で動きやすい体格",
+    "bust_impression": "普通",
+    "body_features": "日差し対策を意識した清潔感のある装い",
+    "outfit": "ホワイトの薄手ラッシュガード、ミントグリーンのスタッフポロシャツ、ネイビーのショートパンツ、ベージュのサンバイザー、ホワイトのクルーソックス、ネイビーのスニーカー",
+    "equipment": "会場チェックリスト、折りたたみ案内看板、清掃トング",
+    "skills": ["会場設営", "備品点検", "早朝清掃"],
+    "special_skill": "モーニングセットアップ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 21 years old}}}, {{{average bust}}}, healthy active build, olive green round eyes, apricot brown low ponytail, {{{white lightweight rash guard, mint green staff polo shirt, navy short pants, beige sun visor, white crew socks, navy sneakers}}}, {{{venue checklist, folding information sign, cleaning tongs}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automatic single pull",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。露出を抑えたビーチイベント衣装。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": ["images_excluded", "scheduled_gacha", "morning_theme", "summer_festival_pickup"]
+}
