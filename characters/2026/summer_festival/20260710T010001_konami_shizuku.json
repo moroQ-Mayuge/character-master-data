@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T010001-konami-shizuku",
+    "slug": "konami_shizuku",
+    "created_at": "2026-07-10T01:00:01+09:00",
+    "updated_at": "2026-07-10T01:00:01+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "手動3連・サマーマーケットクラフト屋台",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 3,
+    "draw_position": 2,
+    "animation_title": "SUMMER FESTIVAL GACHA / CRAFT MARKET BOOTH",
+    "animation_text": "貝殻飾りが揺れるクラフト屋台で、小さな工具と色とりどりの素材を並べたアーティストが、完成したチャームを差し出す。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：小波しずく/本名：小波しずく(こなみしずく)/あだ名：クラフトアーティスト/職業：サマーマーケット・クラフトアーティスト/年齢：23歳/種族：人間/属性：夏/容姿特徴：穏やかで集中力のある表情と柔らかな笑顔/目色形状：シーグリーンの垂れ目気味の瞳/髪型髪色：アッシュグレーのミディアムヘアをゆるく編み込み/体型：健康的でしなやかな体格/胸大きさ形：普通/身体特徴：手先が器用で姿勢が良い/一人称自分呼方：私/あなたを：お客様/他人を：○○さん/性格：丁寧で創作好き、少しマイペース/口調：柔らかい丁寧口調/語尾：〜ですね/行動原理：来場者に世界に一つだけの記念品を届けること/対人傾向：相手の好みを聞きながら提案する/癖口癖：「世界に一つだけのお土産、作ってみませんか？」/好物：レモンソーダ/苦手：強い接着剤の匂い/服装：ホワイトの七分袖ブラウス、ペールイエローのクラフトエプロン、ライトデニムのクロップドパンツ、ベージュのヘアバンド、キャンバススニーカー/装備：クラフト工具セット、貝殻パーツケース、完成見本ボード/スキル技能：アクセサリー制作・接客・色合わせ/特殊スキル：『シェルクラフトメモリー』/弱点：作品作りに集中すると時間を忘れる/秘密：閉店後に売れ残った素材でスタッフ用のお守りを作っている/備考：ビーチマーケットで手作り土産の屋台を担当するクラフトアーティスト。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, {{{average bust}}}, healthy supple build, sea green drooping eyes, ash gray medium braided hair, beige hairband, {{{white three quarter sleeve blouse, pale yellow craft apron, light denim cropped pants, canvas sneakers}}}, {{{craft tool set, shell parts case, sample display board}}}",
+    "one_comment": "世界に一つだけのお土産、作ってみませんか？",
+    "rarity_label": "SR",
+    "title": "サマーマーケット・クラフトアーティスト",
+    "introduction_text": "ビーチマーケットで手作り土産を届ける、穏やかなクラフトアーティスト。"
+  },
+  "structured": {
+    "name": "小波しずく",
+    "full_name": "小波しずく",
+    "full_name_reading": "こなみしずく",
+    "nickname": "クラフトアーティスト",
+    "job": "サマーマーケット・クラフトアーティスト",
+    "age": 23,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "穏やかで集中力のある表情と柔らかな笑顔",
+    "eyes": "シーグリーンの垂れ目気味の瞳",
+    "hair": "アッシュグレーのミディアムヘアをゆるく編み込み",
+    "body_type": "健康的でしなやかな体格",
+    "bust_impression": "普通",
+    "body_features": "手先が器用で姿勢が良い",
+    "outfit": "ホワイトの七分袖ブラウス、ペールイエローのクラフトエプロン、ライトデニムのクロップドパンツ、ベージュのヘアバンド、キャンバススニーカー",
+    "equipment": "クラフト工具セット、貝殻パーツケース、完成見本ボード",
+    "skills": ["アクセサリー制作", "接客", "色合わせ"],
+    "special_skill": "シェルクラフトメモリー"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, {{{average bust}}}, healthy supple build, sea green drooping eyes, ash gray medium braided hair, beige hairband, {{{white three quarter sleeve blouse, pale yellow craft apron, light denim cropped pants, canvas sneakers}}}, {{{craft tool set, shell parts case, sample display board}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "manual 3-pull completion JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": ["images_excluded", "manual_gacha_3pull", "completed_from_summary_slot_2"]
+}
