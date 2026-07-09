@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T005229-isokaze-ritsuka",
+    "slug": "isokaze_ritsuka",
+    "created_at": "2026-07-10T00:52:29+09:00",
+    "updated_at": "2026-07-10T00:52:29+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーリゾート・オーシャンフェスタ",
+    "time_theme": "夜・サマーリゾート",
+    "ticket_before": 230,
+    "ticket_cost": 1,
+    "ticket_after": 227,
+    "draw_count": 2,
+    "animation_title": "SUMMER RESORT OCEAN FESTA GACHA",
+    "animation_text": "青い泡が舞う。金色の光が一瞬だけ走る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：磯風りつか/本名：磯風りつか(いそかぜりつか)/あだ名：潮騒セーフティアナウンス係/職業：ビーチ安全アナウンススタッフ/年齢：22歳/種族：人間/属性：水/容姿特徴：爽やかで頼れる雰囲気/目色形状：エメラルドグリーンの瞳/髪型髪色：黒髪ローポニーテール/体型：引き締まった健康体/胸大きさ形：普通/身体特徴：日焼け止めリストバンド/一人称自分呼方：私/あなたを：みなさん/他人を：○○さん/性格：責任感が強い/口調：はきはき/語尾：〜ですよ/行動原理：浜辺の混雑と熱中症リスクを減らす/対人傾向：落ち着いて周囲に声をかける/癖口癖：「水分補給、忘れないでくださいね！」/好物：スポーツドリンク/苦手：連絡ミス/服装：オレンジのスタッフラッシュガード、ネイビーの膝丈ショートパンツ、防水スニーカー/装備：携帯メガホン、救急ポーチ、注意喚起フラッグ/スキル技能：場内アナウンス・混雑誘導・応急手当/特殊スキル：『オーシャン・セーフティコール』/弱点：地図を読むのが少し苦手/秘密：学生時代は放送部の大会で入賞経験あり/備考：夏川セリカ案から、既存のライフセーバー枠との重複を避けて調整した安全案内スタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, athletic healthy build, emerald green eyes, black low ponytail, {{{orange staff rash guard, navy knee-length shorts, waterproof sneakers}}}, {{{portable megaphone, first aid pouch, safety flags}}}",
+    "one_comment": "今日はみんな笑顔で帰ってくださいね。水分補給のアナウンス、しっかり届けます！",
+    "rarity_label": "SR",
+    "title": "潮騒セーフティアナウンス係",
+    "introduction_text": "ビーチ会場の安全アナウンスと混雑誘導を担当する、はきはきした夏祭りスタッフ。"
+  },
+  "structured": {
+    "name": "磯風りつか",
+    "full_name": "磯風りつか",
+    "full_name_reading": "いそかぜりつか",
+    "nickname": "潮騒セーフティアナウンス係",
+    "job": "ビーチ安全アナウンススタッフ",
+    "age": 22,
+    "species": "人間",
+    "attribute": "水",
+    "appearance": "爽やかで頼れる雰囲気",
+    "eyes": "エメラルドグリーンの瞳",
+    "hair": "黒髪ローポニーテール",
+    "body_type": "引き締まった健康体",
+    "bust_impression": "普通",
+    "body_features": "日焼け止めリストバンド",
+    "first_person": "私",
+    "user_call": "みなさん",
+    "others_call": "○○さん",
+    "personality": "責任感が強い",
+    "speech_style": "はきはき",
+    "ending": "〜ですよ",
+    "principle": "浜辺の混雑と熱中症リスクを減らす",
+    "social_tendency": "落ち着いて周囲に声をかける",
+    "catchphrase_habit": "水分補給、忘れないでくださいね！",
+    "favorite": "スポーツドリンク",
+    "weak_subject": "連絡ミス",
+    "outfit": "オレンジのスタッフラッシュガード、ネイビーの膝丈ショートパンツ、防水スニーカー",
+    "equipment": "携帯メガホン、救急ポーチ、注意喚起フラッグ",
+    "skills": ["場内アナウンス", "混雑誘導", "応急手当"],
+    "special_skill": "オーシャン・セーフティコール",
+    "weakness": "地図を読むのが少し苦手",
+    "secret": "学生時代は放送部の大会で入賞経験あり",
+    "remarks": "夏川セリカ案から、既存のライフセーバー枠との重複を避けて調整した安全案内スタッフ。"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, athletic healthy build, emerald green eyes, black low ponytail, {{{orange staff rash guard, navy knee-length shorts, waterproof sneakers}}}, {{{portable megaphone, first aid pouch, safety flags}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "manual import from ChatGPT_2026-07-10-00-52-28.md with duplicate-avoidance adjustments",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "三面図ではメガホン、救急ポーチ、注意喚起フラッグを整理して描写する。",
+    "illustration_prompt_note": "ビーチ会場で安全アナウンスを行い、来場者を落ち着いて誘導する一枚絵。"
+  },
+  "notes": [
+    "images_excluded",
+    "duplicate_adjusted",
+    "source_candidate_name: 夏川セリカ"
+  ]
+}
