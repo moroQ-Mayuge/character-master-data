@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-adjusted-20260710T010358-astel-noctis",
+    "slug": "astel_noctis",
+    "created_at": "2026-07-10T01:03:58+09:00",
+    "updated_at": "2026-07-10T01:03:58+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "",
+    "pickup_theme": "星巡り・天文観測",
+    "event_name": "",
+    "time_theme": "夜・天文台",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "animation_title": "",
+    "animation_text": "",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：アステル/本名：アステル・ノクティス(あすてる・のくてぃす)/あだ名：星巡りの天測士/職業：熟練星詠み・王立天文局主任星図編纂官/年齢：30歳/種族：人間/属性：星・観測/容姿特徴：知的で落ち着いた雰囲気。優しい微笑みを絶やさない/目色形状：深い群青色の切れ長の瞳/髪型髪色：銀白色のロングヘアをゆるく一本結び/体型：標準/胸大きさ形：普通/身体特徴：右耳に星型イヤーカフ。左手首に天測用ブレスレット/一人称自分呼方：私/あなたを：あなた/他人を：○○さん/性格：冷静・知的・面倒見が良い/口調：穏やかで丁寧/語尾：〜ですね、〜でしょう/行動原理：星の記録を未来へ残し、若い星詠みを導くこと/対人傾向：誰にでも誠実で協力的/癖口癖：星は今日も嘘をつきませんね/好物：ホットミルクと焼き菓子/苦手：濃霧で星が見えない夜/服装：濃紺のロングコート、白いハイネックブラウス、ダークブルーのプリーツスカート、黒いタイツ、茶色の革ベルト、銀のブローチ、白い手袋、ダークブラウンのレースアップブーツ/装備：携帯天体望遠鏡、星図手帳、魔導コンパス/スキル技能：天体観測・航路計算・古文書解析・星詠み指導/特殊スキル：スタークロック/弱点：地下や星空の見えない環境では能力が低下する/秘密：百年後の星空まで予測した未公開星図を密かに完成させている/備考：七瀬しずくのような実習生とは異なり、王立天文局で星図編纂を任される熟練の星詠み。",
+    "danbooru_tags_line": "girl, {{{original, stargazing observatory}}}, {{{modern fantasy, 30 years old}}}, {{{average bust}}}, average build, deep navy sharp eyes, silver white long hair, loose low ponytail, star-shaped ear cuff, celestial bracelet, {{{navy long coat, white high-neck blouse, dark blue pleated skirt, black tights, brown leather belt, silver brooch, white gloves, dark brown lace-up boots}}}, {{{portable telescope, star map notebook, magic compass}}}",
+    "one_comment": "夜空は、遠い未来から届く手紙なんですよ。",
+    "rarity_label": "",
+    "title": "星巡りの天測士",
+    "introduction_text": "若い星詠みを導きながら失われた星図を編纂する、王立天文局の主任観測士。"
+  },
+  "structured": {
+    "name": "アステル",
+    "full_name": "アステル・ノクティス",
+    "full_name_reading": "あすてる・のくてぃす",
+    "nickname": "星巡りの天測士",
+    "job": "熟練星詠み・王立天文局主任星図編纂官",
+    "age": 30,
+    "species": "人間",
+    "attribute": "星・観測",
+    "appearance": "知的で落ち着いた雰囲気。優しい微笑みを絶やさない",
+    "eyes": "深い群青色の切れ長の瞳",
+    "hair": "銀白色のロングヘアをゆるく一本結び",
+    "body_type": "標準",
+    "bust_impression": "普通",
+    "body_features": "右耳に星型イヤーカフ。左手首に天測用ブレスレット",
+    "first_person": "私",
+    "user_call": "あなた",
+    "others_call": "○○さん",
+    "personality": "冷静・知的・面倒見が良い",
+    "speech_style": "穏やかで丁寧",
+    "ending": "〜ですね、〜でしょう",
+    "principle": "星の記録を未来へ残し、若い星詠みを導くこと",
+    "social_tendency": "誰にでも誠実で協力的",
+    "catchphrase_habit": "星は今日も嘘をつきませんね",
+    "favorite": "ホットミルクと焼き菓子",
+    "weak_subject": "濃霧で星が見えない夜",
+    "outfit": "濃紺のロングコート、白いハイネックブラウス、ダークブルーのプリーツスカート、黒いタイツ、茶色の革ベルト、銀のブローチ、白い手袋、ダークブラウンのレースアップブーツ",
+    "equipment": "携帯天体望遠鏡、星図手帳、魔導コンパス",
+    "skills": ["天体観測", "航路計算", "古文書解析", "星詠み指導"],
+    "special_skill": "スタークロック",
+    "weakness": "地下や星空の見えない環境では能力が低下する",
+    "secret": "百年後の星空まで予測した未公開星図を密かに完成させている",
+    "remarks": "七瀬しずくのような実習生とは異なり、王立天文局で星図編纂を任される熟練の星詠み。"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, stargazing observatory}}}, {{{modern fantasy, 30 years old}}}, {{{average bust}}}, average build, deep navy sharp eyes, silver white long hair, loose low ponytail, star-shaped ear cuff, celestial bracelet, {{{navy long coat, white high-neck blouse, dark blue pleated skirt, black tights, brown leather belt, silver brooch, white gloves, dark brown lace-up boots}}}, {{{portable telescope, star map notebook, magic compass}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "local draft from ChatGPT_2026-07-10-01-03-58.md; duplicate Astel candidates consolidated",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "熟練の星詠みらしく、星図手帳・携帯望遠鏡・魔導コンパスを明確に描き分ける。",
+    "illustration_prompt_note": "天文台で若い星詠みに星図を示す、静かな夜のゲームカード風一枚絵。"
+  },
+  "notes": ["duplicate_adjusted", "adjusted_to_differentiate_from_nanase_shizuku"]
+}
