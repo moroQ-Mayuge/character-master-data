@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T120433-sunami-yuzuha",
+    "slug": "sunami_yuzuha",
+    "created_at": "2026-07-10T12:04:33+09:00",
+    "updated_at": "2026-07-10T12:04:33+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "昼・職業・ビーチ会場活動中",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "draw_position": 1,
+    "animation_title": "NOON SUMMER FESTIVAL GACHA / LOST AND FOUND COUNTER",
+    "animation_text": "真昼のビーチ案内所で番号札が一枚めくれ、透明な保管ポーチを整えたスタッフが受付カウンターから手を振る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：砂見ゆずは/本名：砂見ゆずは(すなみゆずは)/あだ名：お忘れもの係/職業：シーサイド遺失物カウンター係/年齢：22歳/種族：人間/属性：夏/容姿特徴：気配りの行き届いた朗らかな笑顔/目色形状：アンバーオレンジのやや垂れ目/髪型髪色：ワインレッドの外はねボブをアイボリーの細いカチューシャでまとめている/体型：健康的で軽快な体格/胸大きさ形：普通/身体特徴：そばかすのある明るい肌/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：観察力があり親切、少しお節介/口調：明るい丁寧口調/語尾：〜かもしれませんね/行動原理：思い出の品を持ち主へ無事に返すこと/対人傾向：落とし物の特徴を聞きながら安心させる/癖口癖：「一緒に手がかりを探してみましょう」/好物：ゆずシャーベット/苦手：記名のない似た形の浮き輪/服装：レモンイエローの半袖スタッフジャケット、アイボリーのクルーネックシャツ、ティールグリーンのキュロットパンツ、アイボリーの細いカチューシャ、ホワイトのアンクルソックス、キャメルのデッキシューズ/装備：遺失物受付タブレット、透明な保管ポーチ、番号札ホルダー/スキル技能：聞き取り・特徴照合・遺失物管理/特殊スキル：『メモリーマッチング』/弱点：持ち主が見つかるまで気になって休憩が遅れる/秘密：返却できた品の番号札を記録した小さな達成ノートを持っている/備考：昼のビーチ会場で落とし物対応を担当するカウンタースタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, healthy light build, fair freckled skin, amber orange slightly drooping eyes, wine red flipped bob, ivory thin headband, {{{lemon yellow short sleeve staff jacket, ivory crew neck shirt, teal green culotte pants, white ankle socks, camel deck shoes}}}, {{{lost property reception tablet, transparent storage pouch, numbered tag holder}}}",
+    "one_comment": "一緒に手がかりを探してみましょう",
+    "rarity_label": "R",
+    "title": "シーサイド遺失物カウンター係",
+    "introduction_text": "落とし物の小さな特徴を見逃さず、思い出の品を持ち主へ届ける昼番スタッフ。"
+  },
+  "structured": {
+    "name": "砂見ゆずは",
+    "full_name": "砂見ゆずは",
+    "full_name_reading": "すなみゆずは",
+    "nickname": "お忘れもの係",
+    "job": "シーサイド遺失物カウンター係",
+    "age": 22,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "気配りの行き届いた朗らかな笑顔",
+    "eyes": "アンバーオレンジのやや垂れ目",
+    "hair": "ワインレッドの外はねボブをアイボリーの細いカチューシャでまとめている",
+    "body_type": "健康的で軽快な体格",
+    "bust_impression": "普通",
+    "body_features": "そばかすのある明るい肌",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "観察力があり親切、少しお節介",
+    "speech_style": "明るい丁寧口調",
+    "ending": "〜かもしれませんね",
+    "principle": "思い出の品を持ち主へ無事に返すこと",
+    "social_tendency": "落とし物の特徴を聞きながら安心させる",
+    "catchphrase_habit": "一緒に手がかりを探してみましょう",
+    "favorite": "ゆずシャーベット",
+    "weak_subject": "記名のない似た形の浮き輪",
+    "outfit": "レモンイエローの半袖スタッフジャケット、アイボリーのクルーネックシャツ、ティールグリーンのキュロットパンツ、アイボリーの細いカチューシャ、ホワイトのアンクルソックス、キャメルのデッキシューズ",
+    "equipment": "遺失物受付タブレット、透明な保管ポーチ、番号札ホルダー",
+    "skills": [
+      "聞き取り",
+      "特徴照合",
+      "遺失物管理"
+    ],
+    "special_skill": "メモリーマッチング",
+    "weakness": "持ち主が見つかるまで気になって休憩が遅れる",
+    "secret": "返却できた品の番号札を記録した小さな達成ノートを持っている",
+    "remarks": "昼のビーチ会場で落とし物対応を担当するカウンタースタッフ。"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, healthy light build, fair freckled skin, amber orange slightly drooping eyes, wine red flipped bob, ivory thin headband, {{{lemon yellow short sleeve staff jacket, ivory crew neck shirt, teal green culotte pants, white ankle socks, camel deck shoes}}}, {{{lost property reception tablet, transparent storage pouch, numbered tag holder}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled automatic single pull",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。露出を抑えたビーチイベント制服。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_gacha",
+    "noon_theme",
+    "summer_festival_pickup",
+    "rarity_suppression_applied"
+  ]
+}
