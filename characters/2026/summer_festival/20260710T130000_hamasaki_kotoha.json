@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T130000-hamasaki-kotoha",
+    "slug": "hamasaki_kotoha",
+    "created_at": "2026-07-10T13:00:00+09:00",
+    "updated_at": "2026-07-10T13:00:00+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "手動5連・ビーチフェス会場",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 5,
+    "draw_position": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / FIVE DRAW",
+    "animation_text": "夏のビーチフェス会場で、新たなスタッフが姿を現す。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：浜崎ことは/本名：浜崎ことは(はまさきことは)/あだ名：サンシェードメンテナンススタッフ/職業：ビーチ会場日除け設備保守スタッフ/年齢：22歳/種族：人間/属性：夏/容姿特徴：明るい肌と小さなそばかす/目色形状：オリーブブラウンの丸い瞳/髪型髪色：チェスナットブラウンの肩上ボブを低い位置でまとめたハーフアップ/体型：健康的で軽快な体格/胸大きさ形：普通/身体特徴：明るい肌と小さなそばかす/一人称自分呼方：私/あなたを：お客様/他人を：○○さん/性格：明るく几帳面で、小さな異常にもよく気づく/口調：丁寧で親しみやすい口調/語尾：〜です/行動原理：来場者へ安全で楽しい夏の思い出を届けること/対人傾向：相手の様子をよく見て必要な支援を行う/癖口癖：「日陰の準備も大事なお仕事なんですよ♪」/好物：シトラスドリンク/苦手：急な天候変化/服装：ホワイトの半袖ワークシャツ、サンドベージュのユーティリティベスト、ネイビーのカーゴショートパンツ、ライトグレーのキャップ、ホワイトのアンクルソックス、キャメルのワークスニーカー/装備：日除け点検クリップボード、折りたたみ測定ポール、工具ポーチ/スキル技能：日除け設備点検・簡易補修・会場安全確認/特殊スキル：『サンシェード・チェック』/弱点：点検に集中すると休憩を忘れる/秘密：補修済みパラソルへ小さな星印を付けている/備考：サマーフェスティバル2026の運営を支えるスタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, healthy light build, fair freckled skin, olive brown round eyes, chestnut brown shoulder length half up hair, {{{white short sleeve work shirt, sand beige utility vest, navy cargo shorts, light gray cap, white ankle socks, camel work sneakers}}}, {{{sunshade inspection clipboard, folding measuring pole, tool pouch}}}",
+    "one_comment": "日陰の準備も大事なお仕事なんですよ♪",
+    "rarity_label": "R",
+    "title": "サンシェードメンテナンススタッフ",
+    "introduction_text": "ビーチ会場日除け設備保守スタッフとして会場を支える成人女性キャラクター。"
+  },
+  "structured": {
+    "name": "浜崎ことは",
+    "full_name": "浜崎ことは",
+    "full_name_reading": "はまさきことは",
+    "nickname": "サンシェードメンテナンススタッフ",
+    "job": "ビーチ会場日除け設備保守スタッフ",
+    "age": 22,
+    "species": "人間",
+    "attribute": "夏",
+    "appearance": "明るい肌と小さなそばかす",
+    "eyes": "オリーブブラウンの丸い瞳",
+    "hair": "チェスナットブラウンの肩上ボブを低い位置でまとめたハーフアップ",
+    "body_type": "健康的で軽快な体格",
+    "bust_impression": "普通",
+    "body_features": "明るい肌と小さなそばかす",
+    "outfit": "ホワイトの半袖ワークシャツ、サンドベージュのユーティリティベスト、ネイビーのカーゴショートパンツ、ライトグレーのキャップ、ホワイトのアンクルソックス、キャメルのワークスニーカー",
+    "equipment": "日除け点検クリップボード、折りたたみ測定ポール、工具ポーチ",
+    "skills": [
+      "日除け設備点検",
+      "簡易補修",
+      "会場安全確認"
+    ],
+    "special_skill": "サンシェード・チェック"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{{average bust}}}, healthy light build, fair freckled skin, olive brown round eyes, chestnut brown shoulder length half up hair, {{{white short sleeve work shirt, sand beige utility vest, navy cargo shorts, light gray cap, white ankle socks, camel work sneakers}}}, {{{sunshade inspection clipboard, folding measuring pole, tool pouch}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "manual 5-pull completion JSON export",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "ソフトライティング、アニメ公式イラスト風、ノイズなし、ギラつきなし。"
+  },
+  "notes": ["images_excluded", "manual_gacha_5pull", "completed_from_summary"]
+}
