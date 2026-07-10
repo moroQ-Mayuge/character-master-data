@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T154533-kazemachi-hikaru",
+    "slug": "kazemachi_hikaru",
+    "created_at": "2026-07-10T15:45:33+09:00",
+    "updated_at": "2026-07-10T15:45:33+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "午後・海浜気象観測デッキ",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "draw_position": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / SEA BREEZE OBSERVATION",
+    "animation_text": "観測ドローンの羽音とともに風向計が回り、海浜気象観測オペレーターが測定端末を掲げる。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：風待ひかる/本名：風待ひかる(かぜまちひかる)/あだ名：シーブリーズオペレーター/職業：海浜気象観測ドローンオペレーター/年齢：24歳/種族：人間/属性：風/容姿特徴：知的で快活な笑顔と機敏な立ち姿/目色形状：アンバーゴールドの切れ長の瞳/髪型髪色：ディープティールの左右非対称ショートボブ、右側を耳にかけ、オレンジの風向計型ヘアピン/体型：健康的で引き締まった中背の体格/胸大きさ形：普通/身体特徴：日焼けした肌、左眉の上に小さなほくろ/一人称自分呼方：私/あなたを：あなた/他人を：○○さん/性格：観察力が高く前向き、現場判断が早い/口調：明瞭で親しみやすい丁寧口調/語尾：〜ですね/行動原理：風と天候の変化を先読みし、会場の安全を守ること/対人傾向：結論を簡潔に伝えた後で理由を説明する/癖口癖：「風向き、変わりました。次の一手を準備しましょう。」/好物：ジンジャーレモネード/苦手：校正されていない気象センサー/服装：ホワイトの半袖ハイカラーユーティリティシャツ、コーラルオレンジのショート丈観測ジャケット、ネイビーのテーパードカーゴパンツ、ダークグレーのフィンガーレス作業グローブ、ライトグレーのアンクルブーツ/装備：携帯風速計、気象観測タブレット、小型折りたたみ観測ドローン/スキル技能：局地気象観測・ドローン操縦・安全判断/特殊スキル：『シーブリーズ・フォーキャスト』/弱点：予測精度を上げようとしてデータ確認を繰り返す/秘密：風向データを音階に変換して覚えている/備考：海浜会場の突風や天候変化を監視する気象観測担当。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, {{{average bust}}}, healthy toned build, tanned skin, mole above left eyebrow, amber gold sharp eyes, deep teal asymmetrical short bob, hair tucked behind ear, orange weather vane hairpin, {{{white short sleeve high collar utility shirt, coral orange cropped observation jacket, navy tapered cargo pants, dark gray fingerless work gloves, light gray ankle boots}}}, {{{handheld anemometer, weather observation tablet, compact folding observation drone}}}",
+    "one_comment": "風向き、変わりました。次の一手を準備しましょう。",
+    "rarity_label": "SR",
+    "title": "シーブリーズ気象観測オペレーター",
+    "introduction_text": "海辺の風と天候を読み、フェス会場の安全を守る気象観測担当。"
+  },
+  "structured": {
+    "name": "風待ひかる",
+    "full_name": "風待ひかる",
+    "full_name_reading": "かぜまちひかる",
+    "nickname": "シーブリーズオペレーター",
+    "job": "海浜気象観測ドローンオペレーター",
+    "age": 24,
+    "species": "人間",
+    "attribute": "風",
+    "appearance": "知的で快活な笑顔と機敏な立ち姿",
+    "eyes": "アンバーゴールドの切れ長の瞳",
+    "hair": "ディープティールの左右非対称ショートボブ、右側を耳にかけ、オレンジの風向計型ヘアピン",
+    "body_type": "健康的で引き締まった中背の体格",
+    "bust_impression": "普通",
+    "body_features": "日焼けした肌、左眉の上に小さなほくろ",
+    "outfit": "ホワイトの半袖ハイカラーユーティリティシャツ、コーラルオレンジのショート丈観測ジャケット、ネイビーのテーパードカーゴパンツ、ダークグレーのフィンガーレス作業グローブ、ライトグレーのアンクルブーツ",
+    "equipment": "携帯風速計、気象観測タブレット、小型折りたたみ観測ドローン",
+    "skills": ["局地気象観測", "ドローン操縦", "安全判断"],
+    "special_skill": "シーブリーズ・フォーキャスト"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, {{{average bust}}}, healthy toned build, tanned skin, mole above left eyebrow, amber gold sharp eyes, deep teal asymmetrical short bob, hair tucked behind ear, orange weather vane hairpin, {{{white short sleeve high collar utility shirt, coral orange cropped observation jacket, navy tapered cargo pants, dark gray fingerless work gloves, light gray ankle boots}}}, {{{handheld anemometer, weather observation tablet, compact folding observation drone}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "generated_in_chat_not_stored"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "GPT-5.6 medium single-pull and turnaround pipeline test",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "横長高解像度三面図、素立ち、文字なし、柔らかいライティング、低ノイズ、付属品は1面のみ。"
+  },
+  "notes": ["images_excluded_from_repository", "single_pull", "turnaround_pipeline_test"]
+}
