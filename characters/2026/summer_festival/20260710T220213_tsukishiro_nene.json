@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T220213-tsukishiro-nene",
+    "slug": "tsukishiro_nene",
+    "created_at": "2026-07-10T22:02:13+09:00",
+    "updated_at": "2026-07-10T22:02:13+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "N",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夜・幻想・夜光浜",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "draw_position": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / MOONLIT TIDE",
+    "animation_text": "月明かりを映す波打ち際に淡い青緑の光が点々と灯り、貝殻ランタンを手にした夜光浜の案内係が静かに歩み出る。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：月城ねね/本名：月城ねね(つきしろねね)/あだ名：月夜のシェルガイド/職業：夜光浜観察ツアー案内係/年齢：23歳/種族：人間/属性：水/容姿特徴：穏やかな微笑みと静かな立ち姿/目色形状：淡いライラックグレーの垂れ目/髪型髪色：ミルクティーベージュの肩上ウェーブボブ、左側に貝殻型ヘアクリップ/体型：細身でしなやかな中背の体格/胸大きさ形：普通/身体特徴：明るい肌、右手首に小さな星形のあざ/一人称自分呼方：私/あなたを：あなた/他人を：○○さん/性格：落ち着いていて聞き上手、好奇心が強い/口調：柔らかくゆっくりした丁寧口調/語尾：〜ですよ/行動原理：夜の浜辺を安全に楽しみながら小さな自然の変化を伝えること/対人傾向：相手の歩調に合わせて案内する/癖口癖：「足元の光、踏まないようにゆっくり行きましょう。」/好物：塩キャラメルミルク/苦手：大きな音で海辺の生き物を驚かせること/服装：アイボリーの七分袖フード付きラッシュガード、セージグリーンの膝丈ボードショーツ、ネイビーの薄手レギンス、ベージュのアクアシューズ、白い貝殻ブレスレット/装備：貝殻型LEDランタン、小型防水観察ケース、折りたたみ案内マップ/スキル技能：夜間安全誘導・潮だまり観察・簡易救護/特殊スキル：『ムーンタイド・サイン』/弱点：珍しい生き物を見つけると説明が長くなる/秘密：案内終了後に海辺の光をスケッチ帳へ記録している/備考：夜光虫や潮だまりの生き物を紹介する、夏祭り夜間ツアーの案内係。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, {{average bust}}, slender flexible medium build, fair skin, star-shaped birthmark on right wrist, pale lilac gray droopy eyes, milk tea beige shoulder-length wavy bob, shell hairclip, {{{ivory three-quarter sleeve hooded rash guard, sage green knee-length board shorts, navy lightweight leggings, white shell bracelet, beige aqua shoes}}}, {{{shell-shaped LED lantern, small waterproof observation case, folded guide map}}}",
+    "one_comment": "足元の光、踏まないようにゆっくり行きましょう。",
+    "rarity_label": "N",
+    "title": "月夜のシェルガイド",
+    "introduction_text": "夜光虫の淡いきらめきを頼りに、夜の浜辺を静かに案内する観察ツアー係。"
+  },
+  "structured": {
+    "name": "月城ねね",
+    "full_name": "月城ねね",
+    "full_name_reading": "つきしろねね",
+    "nickname": "月夜のシェルガイド",
+    "job": "夜光浜観察ツアー案内係",
+    "age": 23,
+    "species": "人間",
+    "attribute": "水",
+    "appearance": "穏やかな微笑みと静かな立ち姿",
+    "eyes": "淡いライラックグレーの垂れ目",
+    "hair": "ミルクティーベージュの肩上ウェーブボブ、左側に貝殻型ヘアクリップ",
+    "body_type": "細身でしなやかな中背の体格",
+    "bust_impression": "普通",
+    "body_features": "明るい肌、右手首に小さな星形のあざ",
+    "outfit": "アイボリーの七分袖フード付きラッシュガード、セージグリーンの膝丈ボードショーツ、ネイビーの薄手レギンス、ベージュのアクアシューズ、白い貝殻ブレスレット",
+    "equipment": "貝殻型LEDランタン、小型防水観察ケース、折りたたみ案内マップ",
+    "skills": ["夜間安全誘導", "潮だまり観察", "簡易救護"],
+    "special_skill": "ムーンタイド・サイン"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, {{average bust}}, slender flexible medium build, fair skin, star-shaped birthmark on right wrist, pale lilac gray droopy eyes, milk tea beige shoulder-length wavy bob, shell hairclip, {{{ivory three-quarter sleeve hooded rash guard, sage green knee-length board shorts, navy lightweight leggings, white shell bracelet, beige aqua shoes}}}, {{{shell-shaped LED lantern, small waterproof observation case, folded guide map}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "GPT-5.6 scheduled single-pull generation",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写なし。",
+    "style_note": "柔らかなアニメ塗り、ソフトライティング、きれいな線、パステル寄り、ノイズ・HDR・過剰発光なし。"
+  },
+  "notes": ["images_excluded_from_repository", "scheduled_single_pull", "night_theme"]
+}
