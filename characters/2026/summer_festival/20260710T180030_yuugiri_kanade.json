@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260710T180030-yuugiri-kanade",
+    "slug": "yuugiri_kanade",
+    "created_at": "2026-07-10T18:00:30+09:00",
+    "updated_at": "2026-07-10T18:00:30+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夕・サンセットビーチステージ撤収準備",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "draw_position": 1,
+    "animation_title": "SUNSET FESTIVAL GACHA / AFTERGLOW SOUND CHECK",
+    "animation_text": "夕焼け色の波紋がガチャ盤を走り、ステージスピーカーから短い確認音が響く。最後の光が集まり、音響ケーブルを肩に掛けた少女が現れる。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：夕霧かなで/本名：夕霧かなで/あだ名：サンセットミキサー/職業：ビーチステージ音響アシスタント/年齢：22歳/種族：人間/属性：音/容姿特徴：落ち着いた笑顔と夕景に映える柔らかな雰囲気/目色形状：オリーブグリーンの丸みある瞳/髪型髪色：ダスティローズの低いサイドポニー、細いネイビーリボン/体型：しなやかな中背の体格/胸大きさ形：普通/身体特徴：健康的な薄い日焼けと右手首の細い編み込みブレスレット/一人称自分呼方：私/あなたを：あなた/他人を：○○さん/性格：穏やかで几帳面、現場では意外と大胆/口調：やわらかな丁寧口調/語尾：〜ですよ/行動原理：最後の一音まで気持ちよく届けること/対人傾向：相手の話を最後まで聞いてから短く要点を返す/癖口癖：「音、きれいに整いましたよ」/好物：塩レモンアイス/苦手：絡まったケーブル/服装：アイボリーの半袖ジップラッシュガード、サンセットオレンジの膝丈ボードショーツ、ネイビーのレギンス、白いデッキシューズ/装備：小型デジタルミキサー、巻き取り式音響ケーブル、片耳モニターヘッドセット/スキル技能：音響調整・ケーブル管理・ステージ進行補助/特殊スキル：『アフターグロウ・クリアミックス』/弱点：確認項目を増やしすぎて撤収が遅くなる/秘密：波音を基準音にして機材のずれを聞き分けられる/備考：夕方のビーチステージで音響確認と撤収補助を担当するスタッフ。",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{average bust}}, slender medium build, lightly tanned skin, olive green round eyes, dusty rose low side ponytail, navy ribbon, {{{ivory short sleeve zip rash guard, sunset orange knee length board shorts, navy leggings, white deck shoes, braided wrist bracelet}}}, {{{compact digital mixer, coiled audio cable, single ear monitor headset}}}",
+    "one_comment": "音、きれいに整いましたよ。夕焼けの最後まで、ちゃんと届けます。",
+    "rarity_label": "R",
+    "title": "夕凪ステージのサンセットミキサー",
+    "introduction_text": "夕景のビーチステージで、最後の一音まで丁寧に整える音響アシスタント。"
+  },
+  "structured": {
+    "name": "夕霧かなで",
+    "full_name": "夕霧かなで",
+    "full_name_reading": "ゆうぎりかなで",
+    "nickname": "サンセットミキサー",
+    "job": "ビーチステージ音響アシスタント",
+    "age": 22,
+    "species": "人間",
+    "attribute": "音",
+    "appearance": "落ち着いた笑顔と夕景に映える柔らかな雰囲気",
+    "eyes": "オリーブグリーンの丸みある瞳",
+    "hair": "ダスティローズの低いサイドポニー、細いネイビーリボン",
+    "body_type": "しなやかな中背の体格",
+    "bust_impression": "普通",
+    "body_features": "健康的な薄い日焼けと右手首の細い編み込みブレスレット",
+    "first_person": "私",
+    "user_call": "あなた",
+    "others_call": "○○さん",
+    "personality": "穏やかで几帳面、現場では意外と大胆",
+    "speech_style": "やわらかな丁寧口調",
+    "ending": "〜ですよ",
+    "principle": "最後の一音まで気持ちよく届けること",
+    "social_tendency": "相手の話を最後まで聞いてから短く要点を返す",
+    "catchphrase_habit": "音、きれいに整いましたよ",
+    "favorite": "塩レモンアイス",
+    "weak_subject": "絡まったケーブル",
+    "outfit": "アイボリーの半袖ジップラッシュガード、サンセットオレンジの膝丈ボードショーツ、ネイビーのレギンス、白いデッキシューズ",
+    "equipment": "小型デジタルミキサー、巻き取り式音響ケーブル、片耳モニターヘッドセット",
+    "skills": ["音響調整", "ケーブル管理", "ステージ進行補助"],
+    "special_skill": "アフターグロウ・クリアミックス",
+    "weakness": "確認項目を増やしすぎて撤収が遅くなる",
+    "secret": "波音を基準音にして機材のずれを聞き分けられる",
+    "remarks": "夕方のビーチステージで音響確認と撤収補助を担当するスタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, {{average bust}}, slender medium build, lightly tanned skin, olive green round eyes, dusty rose low side ponytail, navy ribbon, {{{ivory short sleeve zip rash guard, sunset orange knee length board shorts, navy leggings, white deck shoes, braided wrist bracelet}}}, {{{compact digital mixer, coiled audio cable, single ear monitor headset}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_single_gacha_generation",
+    "policy_note": "全年齢向け。成人キャラクター。水着イベントは健康的なスタッフウェアとして処理。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし、HDRなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は正面のみ。",
+    "illustration_prompt_note": "夕焼けのビーチステージ撤収準備を背景に、一言紹介を元にしたゲームカード品質。"
+  },
+  "notes": [
+    "scheduled_draw",
+    "summer_festival_weekly_pickup",
+    "images_excluded_from_repository",
+    "index_update_pending_due_to_connector_content_truncation"
+  ]
+}
