@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-11T22:00:43+09:00",
+  "updated_at": "2026-07-12T06:59:43+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 105,
+  "character_count": 106,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -1163,6 +1163,17 @@
       "theme": "水着・ビーチの夏祭り",
       "created_at": "2026-07-11T22:00:43+09:00",
       "path": "characters/2026/summer_festival/20260711T220043_yoiha_shizuri.json"
+    },
+    {
+      "id": "2026-summerfestival-20260712T065943-asashio-kohane",
+      "slug": "asashio_kohane",
+      "name": "朝汐こはね",
+      "rarity": "R",
+      "title": "朝風ルートのビーチ・マッパー",
+      "age": 21,
+      "theme": "水着・ビーチの夏祭り",
+      "created_at": "2026-07-12T06:59:43+09:00",
+      "path": "characters/2026/summer_festival/20260712T065943_asashio_kohane.json"
     }
   ]
 }
