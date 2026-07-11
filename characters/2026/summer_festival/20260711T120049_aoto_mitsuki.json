@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260711T120049-aoto-mitsuki",
+    "slug": "aoto_mitsuki",
+    "created_at": "2026-07-11T12:00:49+09:00",
+    "updated_at": "2026-07-11T12:00:49+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "昼・職業・制服・活動中",
+    "ticket_before": null,
+    "ticket_cost": 1,
+    "ticket_after": null,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / LOST & FOUND",
+    "animation_text": "潮風に舞った落とし物タグが案内テントへ集まり、淡いミント色の受付灯が点灯する。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：青砥みつき/本名：青砥みつき/あだ名：みっきー/職業：ビーチフェス遺失物案内スタッフ/年齢：20歳/種族：人間/属性：風/容姿特徴：親しみやすい笑顔と落ち着いた立ち姿/目色形状：灰緑色の丸みのある瞳/髪型髪色：赤茶色の肩丈外はねボブ、左側を白いヘアクリップで留めている/体型：小柄で健康的な標準体型/胸大きさ形：普通/身体特徴：そばかすと日焼けしにくい明るい肌/一人称自分呼方：私/あなたを：お客様/他人を：○○さん/性格：几帳面で聞き上手、困っている人を放っておけない/口調：明るく丁寧/語尾：〜ですね/行動原理：落とし物を持ち主へ確実に返すこと/対人傾向：相手の話を最後まで聞いてから行動する/癖口癖：特徴をもう一つだけ教えてください/好物：塩レモンキャンディ/苦手：強い潮風で書類が飛ぶこと/服装：ミントグリーンの半袖ラッシュガード、ネイビーの膝丈ワークショーツ、白いサンバイザー、黄色いスタッフ腕章、白いアンクルソックス、ネイビーの防水スニーカー/装備：防水クリップボード、番号付き保管ポーチ、携帯拡声器/スキル技能：聞き取り・分類整理・場内案内/特殊スキル：リターンルート・マッピング/弱点：特徴の似た落とし物が並ぶと確認に時間をかけすぎる/秘密：返却できた品の番号を小さな記念ノートへ記録している/備考：サマーフェスティバル遺失物案内テントの新人スタッフ",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 20 years old}}}, {{average bust}}, petite healthy build, light skin, freckles, gray green round eyes, auburn shoulder length flipped bob, white hair clip, {{{mint green short sleeve rash guard, navy knee length work shorts, white sun visor, yellow staff armband, white ankle socks, navy waterproof sneakers}}}, {{{waterproof clipboard, numbered storage pouch, portable megaphone}}}",
+    "one_comment": "大丈夫です、特徴を一つずつ確認すれば、きっと見つかりますよ。",
+    "rarity_label": "R",
+    "title": "潮風テントのロストファインダー",
+    "introduction_text": "落とし物の特徴と場内動線を丁寧に照合する、遺失物案内テントの新人スタッフ。"
+  },
+  "structured": {
+    "name": "青砥みつき",
+    "full_name": "青砥みつき",
+    "full_name_reading": "あおとみつき",
+    "nickname": "みっきー",
+    "job": "ビーチフェス遺失物案内スタッフ",
+    "age": 20,
+    "species": "人間",
+    "attribute": "風",
+    "appearance": "親しみやすい笑顔と落ち着いた立ち姿",
+    "eyes": "灰緑色の丸みのある瞳",
+    "hair": "赤茶色の肩丈外はねボブ、左側を白いヘアクリップで留めている",
+    "body_type": "小柄で健康的な標準体型",
+    "bust_impression": "普通",
+    "body_features": "そばかすと日焼けしにくい明るい肌",
+    "first_person": "私",
+    "user_call": "お客様",
+    "others_call": "○○さん",
+    "personality": "几帳面で聞き上手、困っている人を放っておけない",
+    "speech_style": "明るく丁寧",
+    "ending": "〜ですね",
+    "principle": "落とし物を持ち主へ確実に返すこと",
+    "social_tendency": "相手の話を最後まで聞いてから行動する",
+    "catchphrase_habit": "特徴をもう一つだけ教えてください",
+    "favorite": "塩レモンキャンディ",
+    "weak_subject": "強い潮風で書類が飛ぶこと",
+    "outfit": "ミントグリーンの半袖ラッシュガード、ネイビーの膝丈ワークショーツ、白いサンバイザー、黄色いスタッフ腕章、白いアンクルソックス、ネイビーの防水スニーカー",
+    "equipment": "防水クリップボード、番号付き保管ポーチ、携帯拡声器",
+    "skills": [
+      "聞き取り",
+      "分類整理",
+      "場内案内"
+    ],
+    "special_skill": "リターンルート・マッピング",
+    "weakness": "特徴の似た落とし物が並ぶと確認に時間をかけすぎる",
+    "secret": "返却できた品の番号を小さな記念ノートへ記録している",
+    "remarks": "サマーフェスティバル遺失物案内テントの新人スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 20 years old}}}, {{average bust}}, petite healthy build, light skin, freckles, gray green round eyes, auburn shoulder length flipped bob, white hair clip, {{{mint green short sleeve rash guard, navy knee length work shorts, white sun visor, yellow staff armband, white ankle socks, navy waterproof sneakers}}}, {{{waterproof clipboard, numbered storage pouch, portable megaphone}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写・性的強調・過度な露出なし。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "遺失物案内テントを背景に、一言紹介を元にした全年齢向けゲームカード品質。",
+    "ticket_state_note": "リポジトリ内に確定済み残券数が存在しないため、ticket_beforeとticket_afterはnullとして保存。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_unresolved"
+  ]
+}
