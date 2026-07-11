@@ -1,13 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "balance": 49,
-  "updated_at": "2026-07-11T17:59:39+09:00",
+  "balance": 48,
+  "updated_at": "2026-07-11T22:00:43+09:00",
   "timezone": "Asia/Tokyo",
   "source_of_truth": true,
   "notes": [
     "Initialized by user instruction.",
     "Future gacha runs should read this file before consuming or granting tickets.",
     "After each change, update balance and updated_at in the same execution.",
-    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260711T175939-yuunagi-hotaru."
+    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260711T175939-yuunagi-hotaru.",
+    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260711T220043-yoiha-shizuri."
   ]
 }
