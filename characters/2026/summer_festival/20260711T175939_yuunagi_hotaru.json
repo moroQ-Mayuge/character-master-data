@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260711T175939-yuunagi-hotaru",
+    "slug": "yuunagi_hotaru",
+    "created_at": "2026-07-11T17:59:39+09:00",
+    "updated_at": "2026-07-11T17:59:39+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夕・特殊種族・イベント・夕景",
+    "ticket_before": 50,
+    "ticket_cost": 1,
+    "ticket_after": 49,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / FIREFLY TIDE",
+    "animation_text": "夕映えの波打ち際に並ぶ誘導灯が一斉に消え、代わりに琥珀色の小さな光が海風の軌跡を描く。光の群れが安全通路へ集まると、薄暮色のスタッフジャケットをまとった案内役が姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：夕凪ほたる/本名：夕凪ほたる/あだ名：ほたるん/職業：サンセット遊歩道の照明安全管理員/年齢：25歳/種族：灯蛍族/属性：光/容姿特徴：穏やかな微笑みと夕暮れに淡く光る頬の紋様/目色形状：琥珀色の垂れ目/髪型髪色：濃い紫色の腰丈三つ編み、毛先に琥珀色のリボン/体型：長身でしなやかな標準体型/胸大きさ形：普通/身体特徴：耳の後ろに小さな発光斑があり暗所で淡く光る/一人称自分呼方：私/あなたを：お客様/他人を：○○さん/性格：慎重で温厚、混雑時ほど落ち着いて行動する/口調：柔らかく明瞭/語尾：〜してくださいね/行動原理：誰も迷わず安全に夕景を楽しめる導線を守ること/対人傾向：不安そうな人へ先回りして声をかける/癖口癖：足元の灯りをご確認ください/好物：蜂蜜レモンゼリー/苦手：強すぎる人工照明/服装：薄暮色の長袖ラッシュジャケット、琥珀色のライン入りネイビー膝丈キュロット、白いスタッフキャップ、反射材付きベージュレギンス、ネイビーの防水ハイカットスニーカー/装備：携帯照度計、折り畳み誘導灯、無線機、発光安全ロープ/スキル技能：照明点検・混雑誘導・夜間巡回/特殊スキル：蛍路イルミネーション/弱点：昼間の強い日差しでは発光斑が疲れやすい/秘密：閉場後に余った誘導灯で小さな星座を作っている/備考：夕景エリアから夜間イベントへの切り替えを担当する灯蛍族スタッフ",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern fantasy, 25 years old}}}, {{average bust}}, tall slender build, light skin, glowing cheek markings, amber droopy eyes, dark purple waist length braid, amber hair ribbon, glowing marks behind ears, {{{twilight purple long sleeve rash jacket, navy knee length culottes with amber stripes, white staff cap, beige reflective leggings, navy waterproof high top sneakers}}}, {{{portable light meter, folding guide light, radio, glowing safety rope}}}",
+    "one_comment": "夕暮れは道が見えにくくなります。私の灯りについて来てくださいね。",
+    "rarity_label": "SR",
+    "title": "蛍路のサンセット・ライトキーパー",
+    "introduction_text": "夕景エリアの照度と安全導線を管理し、自らの淡い発光で来場者を夜間イベントへ導く灯蛍族のスタッフ。"
+  },
+  "structured": {
+    "name": "夕凪ほたる",
+    "full_name": "夕凪ほたる",
+    "full_name_reading": "ゆうなぎほたる",
+    "nickname": "ほたるん",
+    "job": "サンセット遊歩道の照明安全管理員",
+    "age": 25,
+    "species": "灯蛍族",
+    "attribute": "光",
+    "appearance": "穏やかな微笑みと夕暮れに淡く光る頬の紋様",
+    "eyes": "琥珀色の垂れ目",
+    "hair": "濃い紫色の腰丈三つ編み、毛先に琥珀色のリボン",
+    "body_type": "長身でしなやかな標準体型",
+    "bust_impression": "普通",
+    "body_features": "耳の後ろに小さな発光斑があり暗所で淡く光る",
+    "first_person": "私",
+    "user_call": "お客様",
+    "others_call": "○○さん",
+    "personality": "慎重で温厚、混雑時ほど落ち着いて行動する",
+    "speech_style": "柔らかく明瞭",
+    "ending": "〜してくださいね",
+    "principle": "誰も迷わず安全に夕景を楽しめる導線を守ること",
+    "social_tendency": "不安そうな人へ先回りして声をかける",
+    "catchphrase_habit": "足元の灯りをご確認ください",
+    "favorite": "蜂蜜レモンゼリー",
+    "weak_subject": "強すぎる人工照明",
+    "outfit": "薄暮色の長袖ラッシュジャケット、琥珀色のライン入りネイビー膝丈キュロット、白いスタッフキャップ、反射材付きベージュレギンス、ネイビーの防水ハイカットスニーカー",
+    "equipment": "携帯照度計、折り畳み誘導灯、無線機、発光安全ロープ",
+    "skills": [
+      "照明点検",
+      "混雑誘導",
+      "夜間巡回"
+    ],
+    "special_skill": "蛍路イルミネーション",
+    "weakness": "昼間の強い日差しでは発光斑が疲れやすい",
+    "secret": "閉場後に余った誘導灯で小さな星座を作っている",
+    "remarks": "夕景エリアから夜間イベントへの切り替えを担当する灯蛍族スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern fantasy, 25 years old}}}, {{average bust}}, tall slender build, light skin, glowing cheek markings, amber droopy eyes, dark purple waist length braid, amber hair ribbon, glowing marks behind ears, {{{twilight purple long sleeve rash jacket, navy knee length culottes with amber stripes, white staff cap, beige reflective leggings, navy waterproof high top sneakers}}}, {{{portable light meter, folding guide light, radio, glowing safety rope}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向け。成人キャラクター。性的描写・性的強調・過度な露出なし。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "夕景の遊歩道と安全誘導灯を背景に、一言紹介を元にした全年齢向けゲームカード品質。",
+    "ticket_state_note": "state/gacha_tickets.json の確定残数50枚を参照し、1枚消費後49枚として同一実行内で更新。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_verified"
+  ]
+}
