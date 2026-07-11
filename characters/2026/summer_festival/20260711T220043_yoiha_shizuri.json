@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260711T220043-yoiha-shizuri",
+    "slug": "yoiha_shizuri",
+    "created_at": "2026-07-11T22:00:43+09:00",
+    "updated_at": "2026-07-11T22:00:43+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "N",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夜・幻想・夜景",
+    "ticket_before": 49,
+    "ticket_cost": 1,
+    "ticket_after": 48,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / MOONLIT SHELL",
+    "animation_text": "月明かりの浜辺で貝殻ランタンが静かに灯る。淡い青緑の光が標本箱へ集まり、夜間展示の準備を終えた記録係が姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：宵浜しずり/本名：宵浜しずり/あだ名：しずりん/職業：夜光貝ミニ展示の標本整理員/年齢：24歳/種族：人間/属性：月/容姿特徴：静かな笑顔と月明かりを映す涼やかな雰囲気/目色形状：青緑色の丸い瞳/髪型髪色：灰みの水色の肩丈外はねボブ、白い貝殻ヘアピン/体型：小柄で自然な標準体型/胸大きさ形：自然な標準/身体特徴：色白の肌と整った顔立ち/一人称自分呼方：私/あなたを：お客様/他人を：○○さん/性格：控えめで几帳面、好きなことには集中力を発揮する/口調：小声だが丁寧で聞き取りやすい/語尾：〜ですね/行動原理：浜辺で見つかった自然物を正しく記録して伝えること/対人傾向：質問には標本を見せながらゆっくり説明する/癖口癖：番号を確認しますね/好物：ラムネ寒天/苦手：急な大波と大きな音/服装：青緑色の長袖ラッシュガード、白い膝丈ラップキュロット、薄灰色のレギンス、白い貝殻ヘアピン、青緑色の防水スニーカー/装備：透明標本箱、耐水ラベル帳、月形の小型ランタン、柔らかい採集ブラシ/スキル技能：標本分類・耐水ラベル作成・夜間展示案内/特殊スキル：月浜シェルソート/弱点：作業に集中すると閉場時刻を忘れがち/秘密：展示できない欠けた貝殻も種類別に保管している/備考：夜の自由研究コーナーで来場者向けの小さな標本展示を担当する整理員",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, petite build, light skin, teal round eyes, dusty light blue shoulder length flipped bob, white shell hairpin, {{{teal long sleeve rash guard, white knee length wrap culottes, light gray leggings, teal waterproof sneakers}}}, {{{transparent specimen box, waterproof label notebook, crescent moon lantern, soft collection brush}}}",
+    "one_comment": "この貝殻、月明かりの下だと少しだけ色が変わって見えるんですよ。",
+    "rarity_label": "N",
+    "title": "月浜標本のシェル・アーキビスト",
+    "introduction_text": "夜の自由研究コーナーで、浜辺の貝殻を分類しながら小さな展示を整える静かな標本整理員。"
+  },
+  "structured": {
+    "name": "宵浜しずり",
+    "full_name": "宵浜しずり",
+    "full_name_reading": "よいはましずり",
+    "nickname": "しずりん",
+    "job": "夜光貝ミニ展示の標本整理員",
+    "age": 24,
+    "species": "人間",
+    "attribute": "月",
+    "appearance": "静かな笑顔と月明かりを映す涼やかな雰囲気",
+    "eyes": "青緑色の丸い瞳",
+    "hair": "灰みの水色の肩丈外はねボブ、白い貝殻ヘアピン",
+    "body_type": "小柄で自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "色白の肌と整った顔立ち",
+    "first_person": "私",
+    "user_call": "お客様",
+    "others_call": "○○さん",
+    "personality": "控えめで几帳面、好きなことには集中力を発揮する",
+    "speech_style": "小声だが丁寧で聞き取りやすい",
+    "ending": "〜ですね",
+    "principle": "浜辺で見つかった自然物を正しく記録して伝えること",
+    "social_tendency": "質問には標本を見せながらゆっくり説明する",
+    "catchphrase_habit": "番号を確認しますね",
+    "favorite": "ラムネ寒天",
+    "weak_subject": "急な大波と大きな音",
+    "outfit": "青緑色の長袖ラッシュガード、白い膝丈ラップキュロット、薄灰色のレギンス、白い貝殻ヘアピン、青緑色の防水スニーカー",
+    "equipment": "透明標本箱、耐水ラベル帳、月形の小型ランタン、柔らかい採集ブラシ",
+    "skills": ["標本分類", "耐水ラベル作成", "夜間展示案内"],
+    "special_skill": "月浜シェルソート",
+    "weakness": "作業に集中すると閉場時刻を忘れがち",
+    "secret": "展示できない欠けた貝殻も種類別に保管している",
+    "remarks": "夜の自由研究コーナーで来場者向けの小さな標本展示を担当する整理員"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, petite build, light skin, teal round eyes, dusty light blue shoulder length flipped bob, white shell hairpin, {{{teal long sleeve rash guard, white knee length wrap culottes, light gray leggings, teal waterproof sneakers}}}, {{{transparent specimen box, waterproof label notebook, crescent moon lantern, soft collection brush}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "月明かりの浜辺と小さな貝殻展示を背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数49枚を参照し、1枚消費後48枚として更新。"
+  },
+  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified"]
+}
