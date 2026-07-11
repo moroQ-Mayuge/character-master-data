@@ -4,7 +4,7 @@
     "character_id": "2026-summerfestival-20260712T065943-asashio-kohane",
     "slug": "asashio_kohane",
     "created_at": "2026-07-12T06:59:43+09:00",
-    "updated_at": "2026-07-12T06:59:43+09:00",
+    "updated_at": "2026-07-12T07:00:00+09:00",
     "generator": "Character Gacha Master Chat",
     "specification_version": "4.1",
     "language": "ja"
@@ -102,6 +102,7 @@
   "notes": [
     "images_excluded",
     "scheduled_regular_gacha",
-    "ticket_balance_verified"
+    "ticket_balance_verified",
+    "index_maintenance_retry"
   ]
 }
