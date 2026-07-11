@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260712T065943-asashio-kohane",
+    "slug": "asashio_kohane",
+    "created_at": "2026-07-12T06:59:43+09:00",
+    "updated_at": "2026-07-12T06:59:43+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "朝・準備・日常",
+    "ticket_before": 48,
+    "ticket_cost": 1,
+    "ticket_after": 47,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / MORNING MAP",
+    "animation_text": "朝焼けの浜辺に案内旗がひらめき、折りたたまれた会場マップへ珊瑚色の光が走る。開場前の巡回を終えた案内係が、最初の来場者を迎えるように姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：朝汐こはね/本名：朝汐こはね/あだ名：こはねちゃん/職業：早朝ビーチマップ配布係/年齢：21歳/種族：人間/属性：風/容姿特徴：朝日を思わせる明るい笑顔と軽やかな雰囲気/目色形状：オリーブグリーンのややたれ目/髪型髪色：淡い桃色の編み込み入り低いポニーテール/体型：しなやかな標準体型/胸大きさ形：自然な標準/身体特徴：健康的な薄い日焼け肌とそばかす/一人称自分呼方：わたし/あなたを：お客さま/他人を：○○さん/性格：朗らかで気配り上手、段取りを楽しむ/口調：明るく親しみやすい丁寧口調/語尾：〜ですよ/行動原理：迷う人が出る前に必要な案内を届けること/対人傾向：相手の目的を聞いて地図に目印を付けて渡す/癖口癖：ここに印をつけますね/好物：塩レモンのスコーン/苦手：折り目のずれた地図/服装：クリーム色の薄手UVパーカー、珊瑚色のワンピース水着、紺色のボードショーツ、白いアンクルソックス、ミントグリーンのスポーツサンダル/装備：折りたたみ会場マップ、木製スタンプ、腰下げスタンプポーチ、小型の案内旗/スキル技能：会場導線案内・地図への即席マーキング・早朝巡回/特殊スキル：ブリーズルート・サイン/弱点：地図をきれいに畳み直すまで次の作業へ移れない/秘密：開場前に毎朝一つだけ砂浜へ小さな風車を立てている/備考：夏祭り会場の入口で、混雑前から案内マップを準備する早朝スタッフ",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 21 years old}}}, flexible average build, lightly tanned skin, freckles, olive green droopy eyes, pale pink braided low ponytail, {{{cream lightweight uv parka, coral one-piece swimsuit, navy board shorts, white ankle socks, mint green sport sandals}}}, {{{folded venue map, wooden stamp, waist stamp pouch, small guide flag}}}",
+    "one_comment": "朝のうちなら、いちばん歩きやすい順番でご案内できますよ。",
+    "rarity_label": "R",
+    "title": "朝風ルートのビーチ・マッパー",
+    "introduction_text": "開場前の浜辺を巡回し、来場者ごとに目印を付けた会場マップを手渡す朗らかな早朝案内係。"
+  },
+  "structured": {
+    "name": "朝汐こはね",
+    "full_name": "朝汐こはね",
+    "full_name_reading": "あさしおこはね",
+    "nickname": "こはねちゃん",
+    "job": "早朝ビーチマップ配布係",
+    "age": 21,
+    "species": "人間",
+    "attribute": "風",
+    "appearance": "朝日を思わせる明るい笑顔と軽やかな雰囲気",
+    "eyes": "オリーブグリーンのややたれ目",
+    "hair": "淡い桃色の編み込み入り低いポニーテール",
+    "body_type": "しなやかな標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "健康的な薄い日焼け肌とそばかす",
+    "first_person": "わたし",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "朗らかで気配り上手、段取りを楽しむ",
+    "speech_style": "明るく親しみやすい丁寧口調",
+    "ending": "〜ですよ",
+    "principle": "迷う人が出る前に必要な案内を届けること",
+    "social_tendency": "相手の目的を聞いて地図に目印を付けて渡す",
+    "catchphrase_habit": "ここに印をつけますね",
+    "favorite": "塩レモンのスコーン",
+    "weak_subject": "折り目のずれた地図",
+    "outfit": "クリーム色の薄手UVパーカー、珊瑚色のワンピース水着、紺色のボードショーツ、白いアンクルソックス、ミントグリーンのスポーツサンダル",
+    "equipment": "折りたたみ会場マップ、木製スタンプ、腰下げスタンプポーチ、小型の案内旗",
+    "skills": [
+      "会場導線案内",
+      "地図への即席マーキング",
+      "早朝巡回"
+    ],
+    "special_skill": "ブリーズルート・サイン",
+    "weakness": "地図をきれいに畳み直すまで次の作業へ移れない",
+    "secret": "開場前に毎朝一つだけ砂浜へ小さな風車を立てている",
+    "remarks": "夏祭り会場の入口で、混雑前から案内マップを準備する早朝スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 21 years old}}}, flexible average build, lightly tanned skin, freckles, olive green droopy eyes, pale pink braided low ponytail, {{{cream lightweight uv parka, coral one-piece swimsuit, navy board shorts, white ankle socks, mint green sport sandals}}}, {{{folded venue map, wooden stamp, waist stamp pouch, small guide flag}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。健康的な水着イベント表現として生成。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "朝焼けの浜辺と開場前の案内所を背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数48枚を参照し、1枚消費後47枚として更新。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_verified"
+  ]
+}
