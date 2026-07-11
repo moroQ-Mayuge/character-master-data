@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "balance": 50,
+  "updated_at": "2026-07-11T14:46:51+09:00",
+  "timezone": "Asia/Tokyo",
+  "source_of_truth": true,
+  "notes": [
+    "Initialized by user instruction.",
+    "Future gacha runs should read this file before consuming or granting tickets.",
+    "After each change, update balance and updated_at in the same execution."
+  ]
+}
