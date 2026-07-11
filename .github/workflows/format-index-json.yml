@@ -1,0 +1,72 @@
+name: Format index.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - index.json
+      - .github/workflows/format-index-json.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  format-index:
+    if: "!contains(github.event.head_commit.message, '[skip index-format]')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pretty-print and validate index.json
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('index.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+
+          required = {
+              'schema_version',
+              'updated_at',
+              'repository',
+              'character_count',
+              'index_policy',
+              'characters',
+          }
+          missing = sorted(required - data.keys())
+          if missing:
+              raise SystemExit(f'Missing required fields: {missing}')
+
+          characters = data['characters']
+          if not isinstance(characters, list):
+              raise SystemExit('characters must be an array')
+          if data['character_count'] != len(characters):
+              raise SystemExit(
+                  f"character_count mismatch: {data['character_count']} != {len(characters)}"
+              )
+
+          path.write_text(
+              json.dumps(data, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8',
+          )
+          PY
+
+      - name: Commit formatted index
+        shell: bash
+        run: |
+          if git diff --quiet -- index.json; then
+            echo 'index.json is already formatted.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.json
+          git commit -m 'Format index.json for ranged retrieval [skip index-format]'
+          git push
