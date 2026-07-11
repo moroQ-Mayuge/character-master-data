@@ -1,4 +1,4 @@
-name: Format index.json
+name: Maintain character index
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - index.json
+      - characters/**/*.json
       - .github/workflows/format-index-json.yml
   workflow_dispatch:
 
@@ -13,8 +14,8 @@ permissions:
   contents: write
 
 jobs:
-  format-index:
-    if: "!contains(github.event.head_commit.message, '[skip index-format]')"
+  maintain-index:
+    if: "!contains(github.event.head_commit.message, '[skip index-maintenance]')"
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -22,15 +23,15 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Pretty-print and validate index.json
+      - name: Merge new character JSON files, format, and validate index
         shell: bash
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
 
-          path = Path('index.json')
-          data = json.loads(path.read_text(encoding='utf-8'))
+          index_path = Path('index.json')
+          data = json.loads(index_path.read_text(encoding='utf-8'))
 
           required = {
               'schema_version',
@@ -43,30 +44,75 @@ jobs:
           missing = sorted(required - data.keys())
           if missing:
               raise SystemExit(f'Missing required fields: {missing}')
+          if not isinstance(data['characters'], list):
+              raise SystemExit('characters must be an array')
 
           characters = data['characters']
-          if not isinstance(characters, list):
-              raise SystemExit('characters must be an array')
-          if data['character_count'] != len(characters):
-              raise SystemExit(
-                  f"character_count mismatch: {data['character_count']} != {len(characters)}"
-              )
+          existing_ids = {item.get('id') for item in characters}
+          existing_keys = {
+              (item.get('slug'), item.get('created_at')) for item in characters
+          }
+          added = []
 
-          path.write_text(
-              json.dumps(data, ensure_ascii=False, indent=2) + '\n',
-              encoding='utf-8',
-          )
+          for path in sorted(Path('characters').rglob('*.json')):
+              try:
+                  record = json.loads(path.read_text(encoding='utf-8'))
+              except (UnicodeDecodeError, json.JSONDecodeError):
+                  continue
+
+              metadata = record.get('metadata')
+              structured = record.get('structured')
+              gacha = record.get('gacha')
+              display = record.get('display')
+              if not all(isinstance(x, dict) for x in (metadata, structured, gacha, display)):
+                  continue
+
+              character_id = metadata.get('character_id')
+              slug = metadata.get('slug')
+              created_at = metadata.get('created_at')
+              key = (slug, created_at)
+              if not character_id or not slug or not created_at:
+                  continue
+              if character_id in existing_ids or key in existing_keys:
+                  continue
+
+              item = {
+                  'id': character_id,
+                  'slug': slug,
+                  'name': structured.get('name') or structured.get('full_name') or '',
+                  'rarity': gacha.get('rarity') or '',
+                  'title': display.get('title') or '',
+                  'age': structured.get('age'),
+                  'theme': gacha.get('pickup_theme') or gacha.get('time_theme') or '',
+                  'created_at': created_at,
+                  'path': path.as_posix(),
+              }
+              characters.append(item)
+              existing_ids.add(character_id)
+              existing_keys.add(key)
+              added.append(item)
+
+          if added:
+              data['updated_at'] = max(item['created_at'] for item in added)
+          data['character_count'] = len(characters)
+
+          serialized = json.dumps(data, ensure_ascii=False, indent=2) + '\n'
+          reparsed = json.loads(serialized)
+          if reparsed['character_count'] != len(reparsed['characters']):
+              raise SystemExit('character_count mismatch after serialization')
+          index_path.write_text(serialized, encoding='utf-8')
+          print(f'Added {len(added)} character(s); total={len(characters)}')
           PY
 
-      - name: Commit formatted index
+      - name: Commit maintained index
         shell: bash
         run: |
           if git diff --quiet -- index.json; then
-            echo 'index.json is already formatted.'
+            echo 'index.json is already current and formatted.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add index.json
-          git commit -m 'Format index.json for ranged retrieval [skip index-format]'
+          git commit -m 'Maintain character index [skip index-maintenance]'
           git push
