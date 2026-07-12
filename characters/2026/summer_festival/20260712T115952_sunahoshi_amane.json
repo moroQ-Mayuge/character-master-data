@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260712T115952-sunahoshi-amane",
+    "slug": "sunahoshi_amane",
+    "created_at": "2026-07-12T11:59:52+09:00",
+    "updated_at": "2026-07-12T11:59:52+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "昼・職業・活動中",
+    "ticket_before": 47,
+    "ticket_cost": 1,
+    "ticket_after": 46,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / SEASIDE PRINT",
+    "animation_text": "真昼の浜辺に小さな活版機の音が響き、風に舞った白いカードへ空色と橙色のインクが重なる。刷り上がった一枚を掲げながら、海辺の記憶を絵はがきに残す実演スタッフが姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：砂星あまね/本名：砂星あまね/あだ名：あまねさん/職業：海辺の絵はがき実演印刷係/年齢：23歳/種族：人間/属性：紙/容姿特徴：好奇心に満ちた穏やかな笑顔と職人気質の落ち着いた雰囲気/目色形状：琥珀色のやや大きなアーモンド形の瞳/髪型髪色：濃い栗色の顎下ウェーブボブ、橙色の細いヘアバンド/体型：すらりとした自然な標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と鼻筋に薄く散ったそばかす/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：温和で観察好き、細かな違いを楽しめる/口調：落ち着いた親しみやすい丁寧口調/語尾：〜にしましょう/行動原理：その日の海の色を一枚の紙に正確に残すこと/対人傾向：相手の思い出を聞いて二色のインクを選ぶ/癖口癖：試し刷りを見てみましょう/好物：オレンジピールクッキー/苦手：湿気で波打った紙/服装：空色の半袖ラッシュガード、橙色の膝丈ラップキュロット、白い薄手レギンス、生成り色の作業エプロン、紺色の防水スリッポン/装備：携帯式小型活版機、木製活字ケース、耐水絵はがき、二色インクローラー/スキル技能：活版印刷・配色調整・即席図案作成/特殊スキル：シーサイド・デュオトーンプレス/弱点：試し刷りの微妙なずれが気になると作業を止められない/秘密：毎日の最後の一枚には日付と潮位を小さく刻印して保管している/備考：昼のクラフト実演コーナーで来場者の海辺の記憶を絵はがきに仕立てる印刷スタッフ",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, slender average build, light skin, faint freckles, amber almond-shaped eyes, dark chestnut chin-length wavy bob, orange thin hairband, {{{sky blue short sleeve rash guard, orange knee length wrap culottes, white lightweight leggings, natural canvas work apron, navy waterproof slip-on shoes}}}, {{{portable small letterpress, wooden type case, waterproof postcards, two-color ink rollers}}}",
+    "one_comment": "今日の海は空色に少し橙色を重ねると、きれいに残せそうですね。",
+    "rarity_label": "R",
+    "title": "潮彩二色刷りのポストカード・プリンター",
+    "introduction_text": "昼のクラフト実演コーナーで、来場者の思い出を二色刷りの絵はがきへ仕立てる穏やかな印刷スタッフ。"
+  },
+  "structured": {
+    "name": "砂星あまね",
+    "full_name": "砂星あまね",
+    "full_name_reading": "すなほしあまね",
+    "nickname": "あまねさん",
+    "job": "海辺の絵はがき実演印刷係",
+    "age": 23,
+    "species": "人間",
+    "attribute": "紙",
+    "appearance": "好奇心に満ちた穏やかな笑顔と職人気質の落ち着いた雰囲気",
+    "eyes": "琥珀色のやや大きなアーモンド形の瞳",
+    "hair": "濃い栗色の顎下ウェーブボブ、橙色の細いヘアバンド",
+    "body_type": "すらりとした自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と鼻筋に薄く散ったそばかす",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "温和で観察好き、細かな違いを楽しめる",
+    "speech_style": "落ち着いた親しみやすい丁寧口調",
+    "ending": "〜にしましょう",
+    "principle": "その日の海の色を一枚の紙に正確に残すこと",
+    "social_tendency": "相手の思い出を聞いて二色のインクを選ぶ",
+    "catchphrase_habit": "試し刷りを見てみましょう",
+    "favorite": "オレンジピールクッキー",
+    "weak_subject": "湿気で波打った紙",
+    "outfit": "空色の半袖ラッシュガード、橙色の膝丈ラップキュロット、白い薄手レギンス、生成り色の作業エプロン、紺色の防水スリッポン",
+    "equipment": "携帯式小型活版機、木製活字ケース、耐水絵はがき、二色インクローラー",
+    "skills": [
+      "活版印刷",
+      "配色調整",
+      "即席図案作成"
+    ],
+    "special_skill": "シーサイド・デュオトーンプレス",
+    "weakness": "試し刷りの微妙なずれが気になると作業を止められない",
+    "secret": "毎日の最後の一枚には日付と潮位を小さく刻印して保管している",
+    "remarks": "昼のクラフト実演コーナーで来場者の海辺の記憶を絵はがきに仕立てる印刷スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 23 years old}}}, slender average build, light skin, faint freckles, amber almond-shaped eyes, dark chestnut chin-length wavy bob, orange thin hairband, {{{sky blue short sleeve rash guard, orange knee length wrap culottes, white lightweight leggings, natural canvas work apron, navy waterproof slip-on shoes}}}, {{{portable small letterpress, wooden type case, waterproof postcards, two-color ink rollers}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。水着イベントは健康的なクラフト実演として処理。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし、ギラつきなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "真昼の浜辺のクラフト実演コーナーを背景にしたゲームカード品質。",
+    "ticket_state_note": "state/gacha_tickets.jsonの確定残数47枚を参照し、1枚消費後46枚として更新。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_verified"
+  ]
+}
