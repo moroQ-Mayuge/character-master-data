@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-12T21:59:11+09:00",
+  "updated_at": "2026-07-13T07:01:26+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 109,
+  "character_count": 110,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -1207,6 +1207,17 @@
       "theme": "水着・ビーチの夏祭り",
       "created_at": "2026-07-12T21:59:11+09:00",
       "path": "characters/2026/summer_festival/20260712T215911_hoshisuna_mashiro.json"
+    },
+    {
+      "id": "2026-japanesefestival-20260713T070126-akatsukiniwa-hiyori",
+      "slug": "akatsukiniwa_hiyori",
+      "name": "暁庭ひより",
+      "rarity": "SR",
+      "title": "暁鈴札のモーニング・スチュワード",
+      "age": 22,
+      "theme": "和風祭礼",
+      "created_at": "2026-07-13T07:01:26+09:00",
+      "path": "characters/2026/japanese_festival/20260713T070126_akatsukiniwa_hiyori.json"
     }
   ]
 }
