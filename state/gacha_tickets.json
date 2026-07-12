@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "balance": 47,
-  "updated_at": "2026-07-12T06:59:43+09:00",
+  "balance": 46,
+  "updated_at": "2026-07-12T11:59:52+09:00",
   "timezone": "Asia/Tokyo",
   "source_of_truth": true,
   "notes": [
@@ -10,6 +10,7 @@
     "After each change, update balance and updated_at in the same execution.",
     "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260711T175939-yuunagi-hotaru.",
     "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260711T220043-yoiha-shizuri.",
-    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260712T065943-asashio-kohane."
+    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260712T065943-asashio-kohane.",
+    "Consumed 1 ticket for scheduled draw 2026-summerfestival-20260712T115952-sunahoshi-amane."
   ]
 }
