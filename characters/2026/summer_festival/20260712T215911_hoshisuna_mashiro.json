@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260712T215911-hoshisuna-mashiro",
+    "slug": "hoshisuna_mashiro",
+    "created_at": "2026-07-12T21:59:11+09:00",
+    "updated_at": "2026-07-12T21:59:11+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "N",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夜・自由枠・幻想・夜景",
+    "ticket_before": 45,
+    "ticket_cost": 1,
+    "ticket_after": 44,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / STARDUST SEA GLASS",
+    "animation_text": "夜の波打ち際に散らばったシーグラスが星座のように淡く瞬く。透明な観察盤へ光の点が集まり、浜辺の小さな星図を記録する案内係が姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：星砂ましろ/本名：星砂ましろ/あだ名：ましろさん/職業：夜浜シーグラス星図の観察案内係/年齢：22歳/種族：人間/属性：星/容姿特徴：夜風に馴染む柔らかな笑顔と静かな好奇心を感じさせる雰囲気/目色形状：薄紫色の丸みのある瞳/髪型髪色：淡い亜麻色の胸上ストレートヘア、片側を星形ピンで留めた髪型/体型：華奢すぎない小柄な標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と頬に薄く散ったそばかす/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：穏やかで観察好き、小さな発見を丁寧に共有する/口調：静かで親しみやすい丁寧口調/語尾：〜みたいですね/行動原理：浜辺で見つけた光の並びを誰かの思い出として残すこと/対人傾向：相手が選んだシーグラスを観察盤に並べて星座に見立てる/癖口癖：もう一つ光を足してみますね/好物：星形の塩クッキー/苦手：強い懐中電灯の直射光/服装：紺青色の長袖ラッシュガード、淡い藤色の膝丈ボードショーツ、白い薄手レギンス、星形の銀色ヘアピン、灰青色の防水スニーカー/装備：透明な円形観察盤、シーグラス収納瓶、白色の小型手元灯、星座線用の細い銀紐/スキル技能：シーグラス分類・夜間観察案内・即席星図作成/特殊スキル：シーグラス・コンステレーション/弱点：きれいな光の並びを見つけると記録が終わるまで動けない/秘密：閉場後にその日一番小さかった欠片を星図帳へ貼っている/備考：夜の自由観察コーナーで漂着したシーグラスを星座に見立てる小さな展示を担当する案内係",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, small average build, light skin, faint freckles, pale purple round eyes, pale flaxen chest-length straight hair, silver star hairpin, {{{navy blue long sleeve rash guard, pale lavender knee length board shorts, white lightweight leggings, gray blue waterproof sneakers}}}, {{{transparent round observation plate, sea glass storage bottle, small white hand light, thin silver constellation cord}}}",
+    "one_comment": "この小さな欠片、三つ並べると浜辺だけの星座に見えるみたいですね。",
+    "rarity_label": "N",
+    "title": "星砂硝子のナイト・コンステレーター",
+    "introduction_text": "夜の浜辺で拾われたシーグラスを観察盤に並べ、小さな星座として来場者へ案内する静かな展示スタッフ。"
+  },
+  "structured": {
+    "name": "星砂ましろ",
+    "full_name": "星砂ましろ",
+    "full_name_reading": "ほしすなましろ",
+    "nickname": "ましろさん",
+    "job": "夜浜シーグラス星図の観察案内係",
+    "age": 22,
+    "species": "人間",
+    "attribute": "星",
+    "appearance": "夜風に馴染む柔らかな笑顔と静かな好奇心を感じさせる雰囲気",
+    "eyes": "薄紫色の丸みのある瞳",
+    "hair": "淡い亜麻色の胸上ストレートヘア、片側を星形ピンで留めた髪型",
+    "body_type": "華奢すぎない小柄な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と頬に薄く散ったそばかす",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "穏やかで観察好き、小さな発見を丁寧に共有する",
+    "speech_style": "静かで親しみやすい丁寧口調",
+    "ending": "〜みたいですね",
+    "principle": "浜辺で見つけた光の並びを誰かの思い出として残すこと",
+    "social_tendency": "相手が選んだシーグラスを観察盤に並べて星座に見立てる",
+    "catchphrase_habit": "もう一つ光を足してみますね",
+    "favorite": "星形の塩クッキー",
+    "weak_subject": "強い懐中電灯の直射光",
+    "outfit": "紺青色の長袖ラッシュガード、淡い藤色の膝丈ボードショーツ、白い薄手レギンス、星形の銀色ヘアピン、灰青色の防水スニーカー",
+    "equipment": "透明な円形観察盤、シーグラス収納瓶、白色の小型手元灯、星座線用の細い銀紐",
+    "skills": [
+      "シーグラス分類",
+      "夜間観察案内",
+      "即席星図作成"
+    ],
+    "special_skill": "シーグラス・コンステレーション",
+    "weakness": "きれいな光の並びを見つけると記録が終わるまで動けない",
+    "secret": "閉場後にその日一番小さかった欠片を星図帳へ貼っている",
+    "remarks": "夜の自由観察コーナーで漂着したシーグラスを星座に見立てる小さな展示を担当する案内係"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 22 years old}}}, small average build, light skin, faint freckles, pale purple round eyes, pale flaxen chest-length straight hair, silver star hairpin, {{{navy blue long sleeve rash guard, pale lavender knee length board shorts, white lightweight leggings, gray blue waterproof sneakers}}}, {{{transparent round observation plate, sea glass storage bottle, small white hand light, thin silver constellation cord}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "星明かりの浜辺とシーグラス観察展示を背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数45枚を参照し、1枚消費後44枚として更新。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_verified"
+  ]
+}
