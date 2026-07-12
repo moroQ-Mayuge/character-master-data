@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-summerfestival-20260712T180117-akanehama-ibuki",
+    "slug": "akanehama_ibuki",
+    "created_at": "2026-07-12T18:01:17+09:00",
+    "updated_at": "2026-07-12T18:01:17+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "水着・ビーチの夏祭り",
+    "event_name": "サマーフェスティバル2026",
+    "time_theme": "夕・イベント・夕景",
+    "ticket_before": 46,
+    "ticket_cost": 1,
+    "ticket_after": 45,
+    "draw_count": 1,
+    "animation_title": "SUMMER FESTIVAL GACHA / SUNSET SILHOUETTE",
+    "animation_text": "夕焼けに染まる浜辺で、薄布のスクリーンへ金色の光が差し込む。波音に合わせて海鳥と帆船の影が踊り、影絵灯籠を抱えた演出係が幕の向こうから姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：茜浜いぶき/本名：茜浜いぶき/あだ名：いぶきさん/職業：夕浜影絵灯籠の投影演出係/年齢：24歳/種族：人間/属性：影/容姿特徴：夕焼けを映したような穏やかな微笑みと凛とした舞台人の雰囲気/目色形状：金茶色の切れ長の瞳/髪型髪色：深い紫紺色の腰上ロングヘア、片側を細い三つ編みにした低いハーフアップ/体型：すらりとした自然な標準体型/胸大きさ形：自然な標準/身体特徴：健康的な小麦色の肌と長い手足/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：落ち着いていて創意工夫を楽しみ、本番では大胆/口調：静かで明瞭な丁寧口調/語尾：〜してみましょう/行動原理：夕暮れの短い時間を忘れられない舞台に変えること/対人傾向：来場者の思い出を聞いて即興の影絵に取り入れる/癖口癖：光の角度を合わせますね/好物：黒糖きなこの冷やし団子/苦手：風向きが急に変わること/服装：薄藤色の半袖ラッシュガード、砂色の膝丈ラップスカート、濃紺色の七分丈スイムレギンス、夕橙色の細い腰帯、焦げ茶色の防水ストラップサンダル/装備：折りたたみ影絵スクリーン、夕陽色の回転灯籠、海鳥と帆船の影絵板、風向き確認用の細いリボン/スキル技能：影絵投影・即興演出・海風に合わせた照明調整/特殊スキル：サンセット・シルエットシアター/弱点：納得できる影の輪郭が出るまで開演直前まで調整を続ける/秘密：終演後に一枚だけ自分のための小さな影絵を映している/備考：夕方の浜辺ステージで灯籠と夕陽を組み合わせた影絵ショーを担当する演出スタッフ",
+    "danbooru_tags_line": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, slender average build, healthy tan skin, long limbs, golden brown narrow eyes, deep indigo waist-length hair, side braid low half-up hair, {{{light lavender short sleeve rash guard, sand beige knee length wrap skirt, dark navy cropped swim leggings, sunset orange narrow sash, dark brown waterproof strap sandals}}}, {{{folding shadow puppet screen, sunset orange rotating lantern, seabird and sailing ship shadow plates, thin wind direction ribbon}}}",
+    "one_comment": "夕陽が水平線に触れる瞬間だけ、影絵の海も本物みたいに輝くんです。",
+    "rarity_label": "SR",
+    "title": "夕映え灯籠のシルエット・ディレクター",
+    "introduction_text": "夕暮れの浜辺で、灯籠と海風を操りながら一夜限りの影絵舞台を作り上げる演出係。"
+  },
+  "structured": {
+    "name": "茜浜いぶき",
+    "full_name": "茜浜いぶき",
+    "full_name_reading": "あかねはまいぶき",
+    "nickname": "いぶきさん",
+    "job": "夕浜影絵灯籠の投影演出係",
+    "age": 24,
+    "species": "人間",
+    "attribute": "影",
+    "appearance": "夕焼けを映したような穏やかな微笑みと凛とした舞台人の雰囲気",
+    "eyes": "金茶色の切れ長の瞳",
+    "hair": "深い紫紺色の腰上ロングヘア、片側を細い三つ編みにした低いハーフアップ",
+    "body_type": "すらりとした自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "健康的な小麦色の肌と長い手足",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "落ち着いていて創意工夫を楽しみ、本番では大胆",
+    "speech_style": "静かで明瞭な丁寧口調",
+    "ending": "〜してみましょう",
+    "principle": "夕暮れの短い時間を忘れられない舞台に変えること",
+    "social_tendency": "来場者の思い出を聞いて即興の影絵に取り入れる",
+    "catchphrase_habit": "光の角度を合わせますね",
+    "favorite": "黒糖きなこの冷やし団子",
+    "weak_subject": "風向きが急に変わること",
+    "outfit": "薄藤色の半袖ラッシュガード、砂色の膝丈ラップスカート、濃紺色の七分丈スイムレギンス、夕橙色の細い腰帯、焦げ茶色の防水ストラップサンダル",
+    "equipment": "折りたたみ影絵スクリーン、夕陽色の回転灯籠、海鳥と帆船の影絵板、風向き確認用の細いリボン",
+    "skills": [
+      "影絵投影",
+      "即興演出",
+      "海風に合わせた照明調整"
+    ],
+    "special_skill": "サンセット・シルエットシアター",
+    "weakness": "納得できる影の輪郭が出るまで開演直前まで調整を続ける",
+    "secret": "終演後に一枚だけ自分のための小さな影絵を映している",
+    "remarks": "夕方の浜辺ステージで灯籠と夕陽を組み合わせた影絵ショーを担当する演出スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, summer festival}}}, {{{modern, 24 years old}}}, slender average build, healthy tan skin, long limbs, golden brown narrow eyes, deep indigo waist-length hair, side braid low half-up hair, {{{light lavender short sleeve rash guard, sand beige knee length wrap skirt, dark navy cropped swim leggings, sunset orange narrow sash, dark brown waterproof strap sandals}}}, {{{folding shadow puppet screen, sunset orange rotating lantern, seabird and sailing ship shadow plates, thin wind direction ribbon}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "illustration": {
+      "path": "",
+      "status": "not_generated"
+    },
+    "thumbnail": {
+      "path": "",
+      "status": "not_generated"
+    }
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。性的表現・性的強調を含まない。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズ・HDR・過剰な粒子なし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "夕焼けの浜辺と影絵灯籠ステージを背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数46枚を参照し、1枚消費後45枚として更新。"
+  },
+  "notes": [
+    "images_excluded",
+    "scheduled_regular_gacha",
+    "ticket_balance_verified"
+  ]
+}
