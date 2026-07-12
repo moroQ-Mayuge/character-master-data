@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-12T06:59:43+09:00",
+  "updated_at": "2026-07-12T11:59:52+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 106,
+  "character_count": 107,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -1174,6 +1174,17 @@
       "theme": "水着・ビーチの夏祭り",
       "created_at": "2026-07-12T06:59:43+09:00",
       "path": "characters/2026/summer_festival/20260712T065943_asashio_kohane.json"
+    },
+    {
+      "id": "2026-summerfestival-20260712T115952-sunahoshi-amane",
+      "slug": "sunahoshi_amane",
+      "name": "砂星あまね",
+      "rarity": "R",
+      "title": "潮彩二色刷りのポストカード・プリンター",
+      "age": 23,
+      "theme": "水着・ビーチの夏祭り",
+      "created_at": "2026-07-12T11:59:52+09:00",
+      "path": "characters/2026/summer_festival/20260712T115952_sunahoshi_amane.json"
     }
   ]
 }
