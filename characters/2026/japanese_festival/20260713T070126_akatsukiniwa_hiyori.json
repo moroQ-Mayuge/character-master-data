@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-japanesefestival-20260713T070126-akatsukiniwa-hiyori",
+    "slug": "akatsukiniwa_hiyori",
+    "created_at": "2026-07-13T07:01:26+09:00",
+    "updated_at": "2026-07-13T07:01:26+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "SR",
+    "pickup_theme": "和風祭礼",
+    "event_name": "朝詣で・夏越祭礼週間",
+    "time_theme": "朝・準備・始業・日常",
+    "ticket_before": 90,
+    "ticket_cost": 1,
+    "ticket_after": 89,
+    "draw_count": 1,
+    "animation_title": "JAPANESE FESTIVAL GACHA / DAWN BELL",
+    "animation_text": "朝靄の参道に小さな鈴の音が重なり、白い奉書紙へ朱色の印が一つずつ灯る。祭礼札を整えた案内役が、開門の光とともに姿を現した。",
+    "is_weekly_first_draw": true,
+    "weekly_bonus_ticket": 46
+  },
+  "display": {
+    "character_info_line": "キャラ情報：暁庭ひより/本名：暁庭ひより/あだ名：ひよりさん/職業：朝詣で祭礼札の準備案内係/年齢：22歳/種族：人間/属性：鈴/容姿特徴：朝露のように澄んだ笑顔ときびきびした清潔感/目色形状：赤茶色の丸みを帯びた切れ長の瞳/髪型髪色：濃い藍色の肩下ストレートヘア、白い組紐で結んだ低い一つ結び/体型：しなやかな自然な標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と頬に薄いえくぼ/一人称自分呼方：私/あなたを：参拝者さま/他人を：○○さん/性格：几帳面で朗らか、忙しい朝ほど落ち着いて動く/口調：明るく明瞭な丁寧口調/語尾：〜しておきますね/行動原理：最初の参拝者が迷わず気持ちよく祭礼を迎えられるよう整えること/対人傾向：相手の目的を聞いて必要な札と順路を手早く案内する/癖口癖：鈴の印を確かめますね/好物：青梅の寒天寄せ/苦手：湿気で反った奉書紙/服装：白い七分袖の襟付き上衣、薄紅色の膝丈袴スカート、藍色の細い腰帯、白い足袋ソックス、焦げ茶色の軽量草履/装備：祭礼札の木箱、朱肉付き印判、白い組紐鈴、朝詣で順路帳/スキル技能：祭礼札準備・参道案内・印判管理/特殊スキル：暁鈴スタンプ・ルート/弱点：札の向きが一枚でも揃っていないと並べ直してしまう/秘密：開門前に境内の隅へ一枚だけ無記名の感謝札を納めている/備考：和風祭礼週間の朝、授与所と参道を整えて最初の参拝者を迎える準備案内係",
+    "danbooru_tags_line": "girl, {{{original, japanese festival}}}, {{{modern, 22 years old}}}, flexible average build, light skin, faint dimples, reddish brown narrow round eyes, deep indigo shoulder length straight hair, low ponytail, white braided cord hair tie, {{{white three-quarter sleeve collared top, pale pink knee length hakama skirt, indigo narrow sash, white tabi socks, dark brown lightweight zori sandals}}}, {{{wooden festival talisman box, vermilion ink seal, white braided cord bell, morning worship route notebook}}}",
+    "one_comment": "朝一番の鈴が鳴る前に、札も参道もきれいに揃えておきますね。",
+    "rarity_label": "SR",
+    "title": "暁鈴札のモーニング・スチュワード",
+    "introduction_text": "朝詣での開門前に祭礼札と参道を整え、最初の参拝者を迎える朗らかな準備案内係。"
+  },
+  "structured": {
+    "name": "暁庭ひより",
+    "full_name": "暁庭ひより",
+    "full_name_reading": "あかつきにわひより",
+    "nickname": "ひよりさん",
+    "job": "朝詣で祭礼札の準備案内係",
+    "age": 22,
+    "species": "人間",
+    "attribute": "鈴",
+    "appearance": "朝露のように澄んだ笑顔ときびきびした清潔感",
+    "eyes": "赤茶色の丸みを帯びた切れ長の瞳",
+    "hair": "濃い藍色の肩下ストレートヘア、白い組紐で結んだ低い一つ結び",
+    "body_type": "しなやかな自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と頬に薄いえくぼ",
+    "first_person": "私",
+    "user_call": "参拝者さま",
+    "others_call": "○○さん",
+    "personality": "几帳面で朗らか、忙しい朝ほど落ち着いて動く",
+    "speech_style": "明るく明瞭な丁寧口調",
+    "ending": "〜しておきますね",
+    "principle": "最初の参拝者が迷わず気持ちよく祭礼を迎えられるよう整えること",
+    "social_tendency": "相手の目的を聞いて必要な札と順路を手早く案内する",
+    "catchphrase_habit": "鈴の印を確かめますね",
+    "favorite": "青梅の寒天寄せ",
+    "weak_subject": "湿気で反った奉書紙",
+    "outfit": "白い七分袖の襟付き上衣、薄紅色の膝丈袴スカート、藍色の細い腰帯、白い足袋ソックス、焦げ茶色の軽量草履",
+    "equipment": "祭礼札の木箱、朱肉付き印判、白い組紐鈴、朝詣で順路帳",
+    "skills": ["祭礼札準備", "参道案内", "印判管理"],
+    "special_skill": "暁鈴スタンプ・ルート",
+    "weakness": "札の向きが一枚でも揃っていないと並べ直してしまう",
+    "secret": "開門前に境内の隅へ一枚だけ無記名の感謝札を納めている",
+    "remarks": "和風祭礼週間の朝、授与所と参道を整えて最初の参拝者を迎える準備案内係"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, japanese festival}}}, {{{modern, 22 years old}}}, flexible average build, light skin, faint dimples, reddish brown narrow round eyes, deep indigo shoulder length straight hair, low ponytail, white braided cord hair tie, {{{white three-quarter sleeve collared top, pale pink knee length hakama skirt, indigo narrow sash, white tabi socks, dark brown lightweight zori sandals}}}, {{{wooden festival talisman box, vermilion ink seal, white braided cord bell, morning worship route notebook}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation_with_weekly_rotation",
+    "policy_note": "全年齢向けの成人女性キャラクター。性的表現・過度な露出なし。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズ・HDR・過剰な粒子なし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "朝靄の参道と授与所を背景にした全年齢向けゲームカード品質。",
+    "ticket_state_note": "月曜初回配布46枚を加算して90枚とし、1枚消費後89枚として更新。"
+  },
+  "notes": ["images_excluded", "scheduled_regular_gacha", "weekly_pickup_rotated", "weekly_bonus_granted", "ticket_balance_verified"]
+}
