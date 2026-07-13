@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-13T11:59:45+09:00",
+  "updated_at": "2026-07-13T17:58:41+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 111,
+  "character_count": 112,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -1229,6 +1229,17 @@
       "theme": "和風祭礼",
       "created_at": "2026-07-13T11:59:45+09:00",
       "path": "characters/2026/japanese_festival/20260713T115945_kamimori_chitose.json"
+    },
+    {
+      "id": "2026-japanesefestival-20260713T175841-tomoshibiji-sasara",
+      "slug": "tomoshibiji_sasara",
+      "name": "灯路ささら",
+      "rarity": "N",
+      "title": "夕映え紙花のプロセッション・メンダー",
+      "age": 21,
+      "theme": "和風祭礼",
+      "created_at": "2026-07-13T17:58:41+09:00",
+      "path": "characters/2026/japanese_festival/20260713T175841_tomoshibiji_sasara.json"
     }
   ]
 }
