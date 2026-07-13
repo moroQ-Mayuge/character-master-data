@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-japanesefestival-20260713T175841-tomoshibiji-sasara",
+    "slug": "tomoshibiji_sasara",
+    "created_at": "2026-07-13T17:58:41+09:00",
+    "updated_at": "2026-07-13T17:58:41+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "N",
+    "pickup_theme": "和風祭礼",
+    "event_name": "和風祭礼週間2026",
+    "time_theme": "夕・イベント・夕景",
+    "ticket_before": 88,
+    "ticket_cost": 1,
+    "ticket_after": 87,
+    "draw_count": 1,
+    "animation_title": "JAPANESE FESTIVAL GACHA / PAPER BLOSSOM DUSK",
+    "animation_text": "夕映えの祭り通りを紙吹雪がひとひら舞い、行列飾りの紙花へ茜色の光が宿る。竹盆と細筆を携えた補修係が、次の巡行に間に合わせるよう静かに姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：灯路ささら/本名：灯路ささら/あだ名：ささらさん/職業：夕祭り行列の紙花補修係/年齢：21歳/種族：人間/属性：花/容姿特徴：控えめな笑顔と夕映えに馴染む素朴で温かな雰囲気/目色形状：銅茶色の丸みを帯びたたれ目/髪型髪色：灰みの若草色の肩上内巻きボブ、茜色の細い組紐髪飾り/体型：小柄で自然な標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と糊が少し付いた指先/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：穏やかで根気強く、壊れた物を直すことに喜びを感じる/口調：柔らかく聞き取りやすい丁寧口調/語尾：〜しておきますね/行動原理：祭りの行列が最後まで華やかに進めるよう飾りを整えること/対人傾向：困っている人を見つけると作業の手を止めて静かに手伝う/癖口癖：花びらの向きを揃えますね/好物：黒蜜をかけた麩まんじゅう/苦手：湿った紙と急な強風/服装：薄墨色の七分袖法被、若草色の膝下袴パンツ、茜色の細い襷、白い足袋ソックス、飴色の軽量草履/装備：色和紙の紙花箱、米糊入りの小壺、細い補修刷毛、竹編みの作業盆/スキル技能：紙花成形・祭礼飾り補修・色和紙の選別/特殊スキル：夕花リペア・リレー/弱点：傷んだ飾りを見つけると巡行開始ぎりぎりまで直し続ける/秘密：外した古い紙花を一輪ずつ押し花帳のように保管している/備考：夕方の祭礼行列で山車や手持ち飾りの紙花を補修する裏方スタッフ",
+    "danbooru_tags_line": "girl, {{{original, japanese festival}}}, {{{modern, 21 years old}}}, small average build, light skin, copper brown droopy eyes, dusty young grass green short inward bob, red braided cord hair ornament, paste-stained fingertips, {{{light charcoal three-quarter sleeve happi coat, young grass green calf-length hakama pants, red narrow tasuki sash, white tabi socks, amber lightweight zori sandals}}}, {{{colored washi paper flower box, small rice paste jar, fine repair brush, woven bamboo work tray}}}",
+    "one_comment": "少しくらい折れていても、花びらの向きを整えれば行列でもう一度きれいに咲けますよ。",
+    "rarity_label": "N",
+    "title": "夕映え紙花のプロセッション・メンダー",
+    "introduction_text": "夕方の祭礼行列を裏方から支え、傷んだ紙花を一輪ずつ直して華やかさを守る補修係。"
+  },
+  "structured": {
+    "name": "灯路ささら",
+    "full_name": "灯路ささら",
+    "full_name_reading": "とも​​しびじささら",
+    "nickname": "ささらさん",
+    "job": "夕祭り行列の紙花補修係",
+    "age": 21,
+    "species": "人間",
+    "attribute": "花",
+    "appearance": "控えめな笑顔と夕映えに馴染む素朴で温かな雰囲気",
+    "eyes": "銅茶色の丸みを帯びたたれ目",
+    "hair": "灰みの若草色の肩上内巻きボブ、茜色の細い組紐髪飾り",
+    "body_type": "小柄で自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と糊が少し付いた指先",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "穏やかで根気強く、壊れた物を直すことに喜びを感じる",
+    "speech_style": "柔らかく聞き取りやすい丁寧口調",
+    "ending": "〜しておきますね",
+    "principle": "祭りの行列が最後まで華やかに進めるよう飾りを整えること",
+    "social_tendency": "困っている人を見つけると作業の手を止めて静かに手伝う",
+    "catchphrase_habit": "花びらの向きを揃えますね",
+    "favorite": "黒蜜をかけた麩まんじゅう",
+    "weak_subject": "湿った紙と急な強風",
+    "outfit": "薄墨色の七分袖法被、若草色の膝下袴パンツ、茜色の細い襷、白い足袋ソックス、飴色の軽量草履",
+    "equipment": "色和紙の紙花箱、米糊入りの小壺、細い補修刷毛、竹編みの作業盆",
+    "skills": ["紙花成形", "祭礼飾り補修", "色和紙の選別"],
+    "special_skill": "夕花リペア・リレー",
+    "weakness": "傷んだ飾りを見つけると巡行開始ぎりぎりまで直し続ける",
+    "secret": "外した古い紙花を一輪ずつ押し花帳のように保管している",
+    "remarks": "夕方の祭礼行列で山車や手持ち飾りの紙花を補修する裏方スタッフ"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, japanese festival}}}, {{{modern, 21 years old}}}, small average build, light skin, copper brown droopy eyes, dusty young grass green short inward bob, red braided cord hair ornament, paste-stained fingertips, {{{light charcoal three-quarter sleeve happi coat, young grass green calf-length hakama pants, red narrow tasuki sash, white tabi socks, amber lightweight zori sandals}}}, {{{colored washi paper flower box, small rice paste jar, fine repair brush, woven bamboo work tray}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。性的表現や過度な露出を含まない。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "夕映えの祭礼行列と紙花飾りを背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数88枚を参照し、1枚消費後87枚として更新。"
+  },
+  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified"]
+}
