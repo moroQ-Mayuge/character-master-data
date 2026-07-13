@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-japanesefestival-20260713T115945-kamimori-chitose",
+    "slug": "kamimori_chitose",
+    "created_at": "2026-07-13T11:59:45+09:00",
+    "updated_at": "2026-07-13T11:59:45+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "和風祭礼",
+    "event_name": "和風祭礼週間",
+    "time_theme": "昼・職業・活動中",
+    "ticket_before": 89,
+    "ticket_cost": 1,
+    "ticket_after": 88,
+    "draw_count": 1,
+    "animation_title": "JAPANESE FESTIVAL GACHA / PAPER BREEZE",
+    "animation_text": "真昼の祭り通りを白い和紙片が風に乗って巡り、藍と山吹の絵具が団扇の上で鮮やかな模様を結ぶ。刷毛を整えた絵付け職人が、涼風とともに姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：紙守ちとせ/本名：紙守ちとせ/あだ名：ちとせさん/職業：和紙団扇の彩色実演係/年齢：23歳/種族：人間/属性：彩/容姿特徴：柔らかな微笑みと手仕事に集中する端正な雰囲気/目色形状：灰青色のやや丸い切れ長の瞳/髪型髪色：赤みのある焦げ茶色の鎖骨丈ストレートヘア、片側を山吹色の水引髪飾りで留めた髪型/体型：しなやかな自然な標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と絵具が薄く付いた指先/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：穏やかで丁寧、配色を考える時は大胆/口調：落ち着いて親しみやすい丁寧口調/語尾：〜にしてみましょう/行動原理：使う人の思い出に残る涼やかな一枚を仕上げること/対人傾向：相手の好きな景色を聞いて簡単な図案へ整える/癖口癖：色の重なりを見てみましょう/好物：柚子蜜の葛切り/苦手：乾く前の絵具に触れられること/服装：生成り色の七分袖作務衣上衣、藍色の膝下巻きスカート、山吹色の細い前掛け、白い足袋ソックス、墨色の軽量鼻緒サンダル/装備：白竹骨の和紙団扇、藍と山吹の顔料皿、細筆と平筆、図案用の小型型紙箱/スキル技能：和紙彩色・即席図案作成・顔料濃度調整/特殊スキル：涼彩ペーパーブリーズ/弱点：色の境目が納得できないと休憩時間を忘れてしまう/秘密：失敗した試し塗りを小さな栞に作り直している/備考：昼の祭礼工芸通りで来場者向けの和紙団扇絵付けを実演する彩色係",
+    "danbooru_tags_line": "girl, {{{original, japanese festival}}}, {{{modern, 23 years old}}}, flexible average build, light skin, gray blue slightly round narrow eyes, reddish dark brown collarbone-length straight hair, yellow mizuhiki hair ornament, paint-stained fingertips, {{{natural beige three-quarter sleeve samue top, indigo calf-length wrap skirt, yellow narrow work apron, white tabi socks, charcoal lightweight thong sandals}}}, {{{white bamboo frame paper fan, indigo and yellow pigment dishes, fine brush, flat brush, small stencil box}}}",
+    "one_comment": "お祭りの景色を二色だけで描くと、思い出がかえってくっきり残るんですよ。",
+    "rarity_label": "R",
+    "title": "涼彩和紙のペーパー・ブリーズ",
+    "introduction_text": "祭礼工芸通りで、来場者の思い出を藍と山吹の和紙団扇へ描き出す穏やかな彩色実演係。"
+  },
+  "structured": {
+    "name": "紙守ちとせ",
+    "full_name": "紙守ちとせ",
+    "full_name_reading": "かみもりちとせ",
+    "nickname": "ちとせさん",
+    "job": "和紙団扇の彩色実演係",
+    "age": 23,
+    "species": "人間",
+    "attribute": "彩",
+    "appearance": "柔らかな微笑みと手仕事に集中する端正な雰囲気",
+    "eyes": "灰青色のやや丸い切れ長の瞳",
+    "hair": "赤みのある焦げ茶色の鎖骨丈ストレートヘア、片側を山吹色の水引髪飾りで留めた髪型",
+    "body_type": "しなやかな自然な標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と絵具が薄く付いた指先",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "穏やかで丁寧、配色を考える時は大胆",
+    "speech_style": "落ち着いて親しみやすい丁寧口調",
+    "ending": "〜にしてみましょう",
+    "principle": "使う人の思い出に残る涼やかな一枚を仕上げること",
+    "social_tendency": "相手の好きな景色を聞いて簡単な図案へ整える",
+    "catchphrase_habit": "色の重なりを見てみましょう",
+    "favorite": "柚子蜜の葛切り",
+    "weak_subject": "乾く前の絵具に触れられること",
+    "outfit": "生成り色の七分袖作務衣上衣、藍色の膝下巻きスカート、山吹色の細い前掛け、白い足袋ソックス、墨色の軽量鼻緒サンダル",
+    "equipment": "白竹骨の和紙団扇、藍と山吹の顔料皿、細筆と平筆、図案用の小型型紙箱",
+    "skills": ["和紙彩色", "即席図案作成", "顔料濃度調整"],
+    "special_skill": "涼彩ペーパーブリーズ",
+    "weakness": "色の境目が納得できないと休憩時間を忘れてしまう",
+    "secret": "失敗した試し塗りを小さな栞に作り直している",
+    "remarks": "昼の祭礼工芸通りで来場者向けの和紙団扇絵付けを実演する彩色係"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, japanese festival}}}, {{{modern, 23 years old}}}, flexible average build, light skin, gray blue slightly round narrow eyes, reddish dark brown collarbone-length straight hair, yellow mizuhiki hair ornament, paint-stained fingertips, {{{natural beige three-quarter sleeve samue top, indigo calf-length wrap skirt, yellow narrow work apron, white tabi socks, charcoal lightweight thong sandals}}}, {{{white bamboo frame paper fan, indigo and yellow pigment dishes, fine brush, flat brush, small stencil box}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "真昼の和風祭礼工芸通りと団扇絵付け台を背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数89枚を参照し、1枚消費後88枚として更新。"
+  },
+  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified"]
+}
