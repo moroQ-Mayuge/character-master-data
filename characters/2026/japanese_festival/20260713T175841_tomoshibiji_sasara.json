@@ -34,7 +34,7 @@
   "structured": {
     "name": "灯路ささら",
     "full_name": "灯路ささら",
-    "full_name_reading": "とも​​しびじささら",
+    "full_name_reading": "ともしびじささら",
     "nickname": "ささらさん",
     "job": "夕祭り行列の紙花補修係",
     "age": 21,
@@ -86,5 +86,5 @@
     "illustration_prompt_note": "夕映えの祭礼行列と紙花飾りを背景にしたゲームカード品質。",
     "ticket_state_note": "確定残数88枚を参照し、1枚消費後87枚として更新。"
   },
-  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified"]
+  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified", "reading_normalized"]
 }
