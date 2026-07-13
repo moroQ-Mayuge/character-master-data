@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-13T07:01:26+09:00",
+  "updated_at": "2026-07-13T11:59:45+09:00",
   "repository": "moroQ-Mayuge/character-master-data",
-  "character_count": 110,
+  "character_count": 111,
   "index_policy": {
     "description": "Lightweight character index. Detailed data is stored in each path. Initial imported records point to the archive JSON that contains their source records.",
     "path_field": "Repository-relative path to the character data body or archive body.",
@@ -1218,6 +1218,17 @@
       "theme": "和風祭礼",
       "created_at": "2026-07-13T07:01:26+09:00",
       "path": "characters/2026/japanese_festival/20260713T070126_akatsukiniwa_hiyori.json"
+    },
+    {
+      "id": "2026-japanesefestival-20260713T115945-kamimori-chitose",
+      "slug": "kamimori_chitose",
+      "name": "紙守ちとせ",
+      "rarity": "R",
+      "title": "涼彩和紙のペーパー・ブリーズ",
+      "age": 23,
+      "theme": "和風祭礼",
+      "created_at": "2026-07-13T11:59:45+09:00",
+      "path": "characters/2026/japanese_festival/20260713T115945_kamimori_chitose.json"
     }
   ]
 }
