@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "character_id": "2026-japanesefestival-20260713T215836-mikagami-suzuha",
+    "slug": "mikagami_suzuha",
+    "created_at": "2026-07-13T21:58:36+09:00",
+    "updated_at": "2026-07-13T21:58:36+09:00",
+    "generator": "Character Gacha Master Chat",
+    "specification_version": "4.1",
+    "language": "ja"
+  },
+  "gacha": {
+    "rarity": "R",
+    "pickup_theme": "和風祭礼",
+    "event_name": "和風祭礼週間2026",
+    "time_theme": "夜・実験枠・幻想・夜景",
+    "ticket_before": 87,
+    "ticket_cost": 1,
+    "ticket_after": 86,
+    "draw_count": 1,
+    "animation_title": "JAPANESE FESTIVAL GACHA / MOONLIT WATER CREST",
+    "animation_text": "夜祭りの庭に置かれた浅い水盤へ月明かりが落ち、浮かべた銀鏡が静かに向きを変える。水面に揺れる青白い紋様が石畳へ広がり、光の配置を整える投影師が姿を現した。",
+    "is_weekly_first_draw": false,
+    "weekly_bonus_ticket": 0
+  },
+  "display": {
+    "character_info_line": "キャラ情報：水鏡すずは/本名：水鏡すずは/あだ名：すずはさん/職業：夜祭り水面紋の投影調整師/年齢：24歳/種族：人間/属性：月/容姿特徴：静かな集中力を感じさせる涼やかな微笑みと幻想的な雰囲気/目色形状：淡い青銀色の伏し目がちなアーモンド形の瞳/髪型髪色：墨青色の腰上ストレートヘア、片側を銀色の水輪かんざしでまとめた低いサイドポニー/体型：長身寄りのしなやかな標準体型/胸大きさ形：自然な標準/身体特徴：明るい肌と水仕事で冷えやすい指先/一人称自分呼方：私/あなたを：お客さま/他人を：○○さん/性格：沈着で探究心が強く、微細な光の変化を楽しむ/口調：静かで端的な丁寧口調/語尾：〜で合わせますね/行動原理：月と水が作る一度きりの紋様を最も美しい形で届けること/対人傾向：相手の立ち位置に合わせて見え方を細かく調整する/癖口癖：水面を一度落ち着かせますね/好物：白桃の水羊羹/苦手：水盤の近くを勢いよく走られること/服装：月白色の立ち襟七分袖上衣、墨青色の足首丈袴パンツ、薄青色の透けない短い羽織、銀灰色の細帯、白い足袋ソックス、濃紺色の低い鼻緒サンダル/装備：黒漆の浅い水盤、銀色の小型浮き鏡、月紋の遮光板、竹製の角度調整棒/スキル技能：水面反射調整・夜間投影設計・微風の読み取り/特殊スキル：月水紋リフレクション/弱点：水面にわずかな波が残っていると次の投影へ進めない/秘密：閉場後に最後の紋様を小さな和紙へ写し取って日記に綴じている/備考：夜の祭礼庭園で水盤と浮き鏡を使い、石畳へ月光の紋様を映す実験展示の調整師",
+    "danbooru_tags_line": "girl, {{{original, japanese festival}}}, {{{modern, 24 years old}}}, tall flexible average build, light skin, pale silver blue almond-shaped eyes, dark ink blue waist-length straight hair, low side ponytail, silver water ring hairpin, {{{moon white stand collar three-quarter sleeve top, dark ink blue ankle-length hakama pants, pale blue short opaque haori, silver gray narrow obi, white tabi socks, dark navy low thong sandals}}}, {{{black lacquer shallow water basin, small silver floating mirrors, moon crest light shield, bamboo angle adjustment rod}}}",
+    "one_comment": "月明かりは同じ角度に戻りませんから、今夜だけの水紋で合わせますね。",
+    "rarity_label": "R",
+    "title": "月映水紋のリフレクション・アジャスター",
+    "introduction_text": "夜の祭礼庭園で水盤と浮き鏡を操り、月光の紋様を石畳へ映す実験展示の投影調整師。"
+  },
+  "structured": {
+    "name": "水鏡すずは",
+    "full_name": "水鏡すずは",
+    "full_name_reading": "みかがみすずは",
+    "nickname": "すずはさん",
+    "job": "夜祭り水面紋の投影調整師",
+    "age": 24,
+    "species": "人間",
+    "attribute": "月",
+    "appearance": "静かな集中力を感じさせる涼やかな微笑みと幻想的な雰囲気",
+    "eyes": "淡い青銀色の伏し目がちなアーモンド形の瞳",
+    "hair": "墨青色の腰上ストレートヘア、片側を銀色の水輪かんざしでまとめた低いサイドポニー",
+    "body_type": "長身寄りのしなやかな標準体型",
+    "bust_impression": "自然な標準",
+    "body_features": "明るい肌と水仕事で冷えやすい指先",
+    "first_person": "私",
+    "user_call": "お客さま",
+    "others_call": "○○さん",
+    "personality": "沈着で探究心が強く、微細な光の変化を楽しむ",
+    "speech_style": "静かで端的な丁寧口調",
+    "ending": "〜で合わせますね",
+    "principle": "月と水が作る一度きりの紋様を最も美しい形で届けること",
+    "social_tendency": "相手の立ち位置に合わせて見え方を細かく調整する",
+    "catchphrase_habit": "水面を一度落ち着かせますね",
+    "favorite": "白桃の水羊羹",
+    "weak_subject": "水盤の近くを勢いよく走られること",
+    "outfit": "月白色の立ち襟七分袖上衣、墨青色の足首丈袴パンツ、薄青色の透けない短い羽織、銀灰色の細帯、白い足袋ソックス、濃紺色の低い鼻緒サンダル",
+    "equipment": "黒漆の浅い水盤、銀色の小型浮き鏡、月紋の遮光板、竹製の角度調整棒",
+    "skills": ["水面反射調整", "夜間投影設計", "微風の読み取り"],
+    "special_skill": "月水紋リフレクション",
+    "weakness": "水面にわずかな波が残っていると次の投影へ進めない",
+    "secret": "閉場後に最後の紋様を小さな和紙へ写し取って日記に綴じている",
+    "remarks": "夜の祭礼庭園で水盤と浮き鏡を使い、石畳へ月光の紋様を映す実験展示の調整師"
+  },
+  "tags": {
+    "danbooru": "girl, {{{original, japanese festival}}}, {{{modern, 24 years old}}}, tall flexible average build, light skin, pale silver blue almond-shaped eyes, dark ink blue waist-length straight hair, low side ponytail, silver water ring hairpin, {{{moon white stand collar three-quarter sleeve top, dark ink blue ankle-length hakama pants, pale blue short opaque haori, silver gray narrow obi, white tabi socks, dark navy low thong sandals}}}, {{{black lacquer shallow water basin, small silver floating mirrors, moon crest light shield, bamboo angle adjustment rod}}}",
+    "tag_source": "character_info",
+    "rules_version": "2.0",
+    "contains_basic_tags": false,
+    "policy_safe": true
+  },
+  "assets": {
+    "turnaround": {"path": "", "status": "not_generated"},
+    "illustration": {"path": "", "status": "not_generated"},
+    "thumbnail": {"path": "", "status": "not_generated"}
+  },
+  "generation": {
+    "source_chat": "ChatGPT",
+    "model_note": "scheduled_regular_gacha_generation",
+    "policy_note": "全年齢向けの成人キャラクター。性的表現や過度な露出を含まない。",
+    "style_note": "ソフトライティング、きれいな線、パステル寄り、公式ゲームイラスト風、ノイズなし。",
+    "turnaround_prompt_note": "横長高解像度、正面・側面・背面、全身素立ち、文字なし、付属品は1方向のみ。",
+    "illustration_prompt_note": "月明かりの祭礼庭園と水盤の反射紋を背景にしたゲームカード品質。",
+    "ticket_state_note": "確定残数87枚を参照し、1枚消費後86枚として更新。"
+  },
+  "notes": ["images_excluded", "scheduled_regular_gacha", "ticket_balance_verified", "reading_normalized"]
+}
