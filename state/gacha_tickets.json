@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "balance": 87,
-  "updated_at": "2026-07-13T17:58:41+09:00",
+  "balance": 86,
+  "updated_at": "2026-07-13T21:58:36+09:00",
   "timezone": "Asia/Tokyo",
   "source_of_truth": true,
   "notes": [
@@ -17,6 +17,7 @@
     "Granted 46 weekly tickets on Monday 2026-07-13; balance increased from 44 to 90.",
     "Consumed 1 ticket for scheduled draw 2026-japanesefestival-20260713T070126-akatsukiniwa-hiyori; balance decreased from 90 to 89.",
     "Balance changed from 89 to 88 for scheduled draw 2026-japanesefestival-20260713T115945-kamimori-chitose.",
-    "Consumed 1 ticket for scheduled draw 2026-japanesefestival-20260713T175841-tomoshibiji-sasara; balance decreased from 88 to 87."
+    "Consumed 1 ticket for scheduled draw 2026-japanesefestival-20260713T175841-tomoshibiji-sasara; balance decreased from 88 to 87.",
+    "Consumed 1 ticket for scheduled draw 2026-japanesefestival-20260713T215836-mikagami-suzuha; balance decreased from 87 to 86."
   ]
 }
